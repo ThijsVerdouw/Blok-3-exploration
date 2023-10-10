@@ -10,7 +10,7 @@ import json
 import datetime
 from loguru import logger
 
-startYear = 2017
+startYear = 2015
 
 def GetJason (url):
     # This function uses the API to get the data 
@@ -70,25 +70,29 @@ def downloadSeason (seasonNumber):
     r = requests.get(url)
     j = r.json()
     totalRecords = j['count']
-    totalLoops = int(totalRecords / 20)
-    downloadedDatasets = []
-    # totalLoops = 1
-    
-    baseUrl = 'https://screeps.com/api/leaderboard/list?limit=20&mode=world&offset='
-    seasonText = '&season='
-    logger.info('Starting to collect season: ' + str(seasonNumber))
-    
-    for i in range (totalLoops):
-        offset = str(i * 20)
-        url = baseUrl + offset + seasonText + seasonNumber
-        # print(url)
-        downloadedDatasets.append(GetJason(url))
-    if len(downloadedDatasets) == 0:
-        logger.warning('Failed to collect for season: ' + seasonNumber)
-    else: 
-        logger.info('Collected ' + str(len(downloadedDatasets) * 20) + ' out of ' + str(totalRecords) + ' records.')
-        downloadedDatasets = pd.concat(downloadedDatasets)
-    return downloadedDatasets
+    if totalRecords <=0:
+        logger.warning('No records for season: ' + str(seasonNumber))
+        return []
+    else:
+        totalLoops = int(totalRecords / 20)
+        downloadedDatasets = []
+        # totalLoops = 1
+        
+        baseUrl = 'https://screeps.com/api/leaderboard/list?limit=20&mode=world&offset='
+        seasonText = '&season='
+        logger.info('Starting to collect season: ' + str(seasonNumber))
+        
+        for i in range (totalLoops):
+            offset = str(i * 20)
+            url = baseUrl + offset + seasonText + seasonNumber
+            # print(url)
+            downloadedDatasets.append(GetJason(url))
+        if len(downloadedDatasets) == 0:
+            logger.warning('Failed to collect for season: ' + seasonNumber)
+        else: 
+            logger.info('Collected ' + str(len(downloadedDatasets) * 20) + ' out of ' + str(totalRecords) + ' records.')
+            downloadedDatasets = pd.concat(downloadedDatasets)
+        return downloadedDatasets
 
 def DownloadLeaderboard(startYear):
     # First this uses a different function to get all of the seasons in scope
@@ -99,8 +103,13 @@ def DownloadLeaderboard(startYear):
     seasons = ListSeasons(startYear)
     downloadedSeasons = []
     for season in seasons:
-        downloadedSeasons.append(downloadSeason(season))
+        downloadedData = downloadSeason(season)
+        if len(downloadedData) == 0:
+            pass # warning has been triggered in download function
+        else: 
+            downloadedSeasons.append(downloadedData)
     downloadedSeasons = pd.concat(downloadedSeasons)
+    logger.info('Completed download. Downloaded ' + str(len(downloadedSeasons)) + ' records.')
     downloadedSeasons.to_csv('ScrapedData.csv', index=False)
     
 # DownloadLeaderboard(startYear)        

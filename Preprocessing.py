@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 from loguru import logger
 import Download
-startYear = 2017
+startYear = 2015
 
 
 df = pd.read_csv('ScrapedData.csv')
@@ -45,6 +45,8 @@ for player in uniquePlayers:
     maxScore = 0 
     playerData = []
     monthsPlayed = 1
+    loopNr = 1 
+    totalLoops = len(playerActivity)
     
     # This gets changed when the season numbers are not adding up
     for i in playerActivity.index.tolist() :
@@ -72,20 +74,14 @@ for player in uniquePlayers:
         # Score increase percentage based:
         scoreChange = (playerActivity['score'][i] / previousScore) -1 
         
-        # Storing information for the dataframe using lists:
-        # playerDatabase.append([playerActivity['_id'][i],
-        #                     playerActivity['season'][i], 
-        #                     playerActivity['user'][i],
-        #                     playerActivity['score'][i],
-        #                     playerActivity['rank'][i],
-        #                     playerActivity['SeasonNumber'][i],
-        #                     returning,
-        #                     previousScore,
-        #                     cumScore,
-        #                     maxScore,
-        #                     scoreChange,
-        #                     monthsPlayed
-        #     ])
+        # Last month of play?
+        if loopNr == totalLoops:
+            lastMonth = False
+        else:
+            lastMonth = True
+            loopNr = loopNr + 1 
+        
+        # Storing information for the dataframe using NP array:
         playerData.append( np.array([playerActivity['_id'][i],
                             playerActivity['season'][i], 
                             playerActivity['user'][i],
@@ -97,7 +93,8 @@ for player in uniquePlayers:
                             cumScore,
                             maxScore,
                             scoreChange,
-                            monthsPlayed
+                            monthsPlayed,
+                            lastMonth
             ]))
         
         # DF version attempt:
@@ -127,11 +124,13 @@ for player in uniquePlayers:
     # break
 
 playerDatabase = np.concatenate(playerDatabase)
-playerDatabase = pd.DataFrame(playerDatabase, columns = ['_id','season','user', 'score', 'rank', 'seasonNumber', 'returning', 'previousScore', 'cumScore', 'maxScore', 'scoreChange', 'monthsPlayed'])
-playerDatabase.to_csv('PreProcessedData.csv')
-def ducktapeStuffTogether (row, columnName):
-    print(playerDatabase[0][0])
-    return playerDatabase[playerDatabase.index(row['_id'])]
+playerDatabase = pd.DataFrame(playerDatabase, columns = ['_id','season','user', 'score', 'rank', 'seasonNumber', 'returning', 'previousScore', 'cumScore', 'maxScore', 'scoreChange', 'monthsPlayed', 'retentionRate'])
+playerDatabase.to_csv('PreProcessedData.csv', index = False)
+
+print('done')
+# def ducktapeStuffTogether (row, columnName):
+#     print(playerDatabase[0][0])
+#     return playerDatabase[playerDatabase.index(row['_id'])]
 
 # df.apply(ducktapeStuffTogether,columnName = 'a', axis = 1)
 
@@ -140,5 +139,5 @@ def ducktapeStuffTogether (row, columnName):
 # df[['season','user', 'score', 'rank', 'seasonNumber', 'returning', 'previousScore', 'cumScore', 'maxScore', 'scoreChange', 'monthsPlayed']]
 # print(df)
 
-print('done')
+
 # print(playerDatabase)
