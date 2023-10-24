@@ -9,24 +9,29 @@ import pandas as pd
 import json
 import datetime
 from loguru import logger
+import Config
 
-startYear = 2015
+settings = Config.Settings()
 
 def GetJason (url):
     # This function uses the API to get the data 
     # It returns the data as a dataframe
     # This dataframe is then appended to a list outside of the function
     # To be merged together into one dataframe at the end, and stored for future use.
+    try:
+        r = requests.get(url)
+        j = r.json()
     
-    r = requests.get(url)
-    j = r.json()
-
-    ## Contains: (['ok', 'list', 'count', 'users'])
-    # print(j.keys())
-    # for i in j.keys():
-    #     print(j[i])
-
-    df = pd.DataFrame.from_dict(j['list'])
+        ## Contains: (['ok', 'list', 'count', 'users'])
+        # print(j.keys())
+        # for i in j.keys():
+        #     print(j[i])
+    
+        df = pd.DataFrame.from_dict(j['list'])
+    except:
+        # This means it has failed to download anything, or something went horribly wrong in the download
+        logger.warning('Bad thing happened when attempting to download from this one: \n' + str(url))
+        df = pd.DataFrame() # ensures we return an empty dataframe to prevent crashes.
     # print (df)
     return df
 
@@ -66,10 +71,13 @@ def ListSeasons (startYear):
     return seasonNumbers
 
 def downloadSeason (seasonNumber):
-    url = 'https://screeps.com/api/leaderboard/list?limit=10&mode=world&offset=NaN&season=' + seasonNumber 
+    # This function first identifies the total number of records for a given season,
+    # and then it downloads all of those records in batches of 20.
+    # I am intentionally not downloading the last couple of records, those are bad data.
+    url = settings.countRecordsLink + seasonNumber 
     r = requests.get(url)
     j = r.json()
-    totalRecords = j['count']
+    totalRecords = j[settings.totalRecordsCol]
     if totalRecords <=0:
         logger.warning('No records for season: ' + str(seasonNumber))
         return []
@@ -78,7 +86,7 @@ def downloadSeason (seasonNumber):
         downloadedDatasets = []
         # totalLoops = 1
         
-        baseUrl = 'https://screeps.com/api/leaderboard/list?limit=20&mode=world&offset='
+        baseUrl = settings.downloadLink
         seasonText = '&season='
         logger.info('Starting to collect season: ' + str(seasonNumber))
         
@@ -101,6 +109,7 @@ def DownloadLeaderboard(startYear):
     # repeat until all seasons are downloaded.
     
     seasons = ListSeasons(startYear)
+    seasons = ['2021-04'] # debug
     downloadedSeasons = []
     for season in seasons:
         downloadedData = downloadSeason(season)
@@ -110,7 +119,7 @@ def DownloadLeaderboard(startYear):
             downloadedSeasons.append(downloadedData)
     downloadedSeasons = pd.concat(downloadedSeasons)
     logger.info('Completed download. Downloaded ' + str(len(downloadedSeasons)) + ' records.')
-    downloadedSeasons.to_csv('ScrapedData.csv', index=False)
+    downloadedSeasons.to_csv((settings.datadir / settings.scrapedFileName).absolute(), index=False)
     
 # DownloadLeaderboard(startYear)        
     # print()

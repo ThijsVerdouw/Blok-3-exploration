@@ -14,6 +14,7 @@ scoreColumnName = 'score'
 fileName = 'PreProcessedData.csv'
 
 def firstlook (fileName, scoreColumnName):
+    # This function opens the preprocessed file and plots it in a series of boxplots.
     df = pd.read_csv(fileName)
     logger.info('Preprocessed file contains the following columns: ' +str(df.columns))
     # firstLook = sns.boxplot(x = 'monthsPlayed', y = 'score', data = df)
@@ -25,6 +26,8 @@ def firstlook (fileName, scoreColumnName):
 # print(df.head(5))
 
 def assignSkillLevel (Lower_Fence, Q1, Q3, Upper_Fence, score ):
+    # This gives each player a "talent" rating, by assesing their performance on the second month.
+   # The assesment is based on their position in the boxplot.
     if score >= Upper_Fence:
         rating = 5 #'Exceptional'
     elif score >= Q3: 
@@ -38,6 +41,7 @@ def assignSkillLevel (Lower_Fence, Q1, Q3, Upper_Fence, score ):
     return rating
 
 def addSkillToDf (row, skillDatabase):
+    # Adds the skill level of the player to all records associated to a player in the dataframe.
     try:
         rating = skillDatabase[row.user]
     except:
@@ -45,6 +49,8 @@ def addSkillToDf (row, skillDatabase):
     return rating
 
 def identifySkillLevel (df, scoreColumnName):
+    # This uses a single month to calculate a boxplot of the distribution of the score.
+    # These are compiled into a dictionary, which is later used to assign the skill level to indiviudal players.
     Q1 = df[scoreColumnName].quantile(0.25)
     Q3 = df[scoreColumnName].quantile(0.75)
     IQR = Q3 - Q1
@@ -57,7 +63,8 @@ def identifySkillLevel (df, scoreColumnName):
         skillDatabase[df['user'][i]] = skill
     return skillDatabase
 
-def graphData(graphType, x, y, data):
+def graphData(graphType, y, data, x = None):
+    # This allows me to flexibly graph the data whenever I want.
     if graphType == 'BP':
         plt = sns.boxplot(x = x, y = y, data = data)
         plt.yaxis.get_major_formatter().set_scientific(False)
@@ -66,32 +73,37 @@ def graphData(graphType, x, y, data):
         plt = sns.displot(y = y, data = data)
         # plt.yaxis.get_major_formatter().set_scientific(False)
         # plt.set(xlim=(0,100))
+    elif graphType == 'SP':
+        plt = sns.scatterplot(x=x, y=y, data=data)
     else:
         logger.Warning('No graph selected')
+    return plt
 
 def singleMonthSelector (df, specificMonth):
+    # Most things need only a single month of data, this function returns a single month of data.
     query = f'monthsPlayed =={specificMonth}'
     interestingMonth = df.query(query)
     return interestingMonth
 
 def singeMonthView (graphType, df):
+    # This function is a flexible springboard for future graphing features.
+    # It sets X and Y, and allows you to pick the graphtype.
     x = 'monthsPlayed'
     y = 'logScore'
     # y = 'score'
-    data = df
-    graphData(graphType, x, y, data)   
+    graphData(graphType, x=x, y=y, data= df)   
     
     
+def InitialAssesment ():
+    df = firstlook(fileName, scoreColumnName)
+    
+    singleMonthDF = singleMonthSelector(df, specificMonth=2)
+    singeMonthView (graphType= 'HG', df= singleMonthDF)
+    skillDatabase = identifySkillLevel(singleMonthDF, scoreColumnName)     
+    df['skillLevel'] = df.apply(addSkillToDf,skillDatabase = skillDatabase, axis = 1)
+    sns.displot(x = 'skillLevel', data= df[['user','skillLevel']].drop_duplicates())
 
-df = firstlook(fileName, scoreColumnName)
-
-singleMonthDF = singleMonthSelector(df, specificMonth=2)
-singeMonthView (graphType= 'HG', df= singleMonthDF)
-skillDatabase = identifySkillLevel(singleMonthDF, scoreColumnName)     
-df['skillLevel'] = df.apply(addSkillToDf,skillDatabase = skillDatabase, axis = 1)
-sns.displot(x = 'skillLevel', data= df[['user','skillLevel']].drop_duplicates())
-
-
+# main()
 
 
 

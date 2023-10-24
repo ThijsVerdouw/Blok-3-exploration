@@ -1,0 +1,1851 @@
+2023-10-24 11:27:19.158 | WARNING  | __main__:main:18 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:27:19.158 | WARNING  | __main__:main:18 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:27:19.158 | WARNING  | __main__:main:18 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:29:00.016 | WARNING  | __main__:main:19 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:29:00.016 | WARNING  | __main__:main:19 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:29:00.016 | WARNING  | __main__:main:19 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:29:00.016 | WARNING  | __main__:main:19 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:30:22.274 | WARNING  | __main__:main:19 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:30:22.274 | WARNING  | __main__:main:19 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:30:22.274 | WARNING  | __main__:main:19 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:30:22.274 | WARNING  | __main__:main:19 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:30:22.274 | WARNING  | __main__:main:19 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:30:22.274 | WARNING  | __main__:main:19 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:30:22.274 | WARNING  | __main__:main:19 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:30:22.275 | INFO     | Download:ListSeasons:66 - 105 seasons have to be downloaded.
+2023-10-24 11:30:22.275 | INFO     | Download:ListSeasons:66 - 105 seasons have to be downloaded.
+2023-10-24 11:30:22.275 | INFO     | Download:ListSeasons:66 - 105 seasons have to be downloaded.
+2023-10-24 11:30:22.275 | INFO     | Download:ListSeasons:66 - 105 seasons have to be downloaded.
+2023-10-24 11:30:22.275 | INFO     | Download:ListSeasons:66 - 105 seasons have to be downloaded.
+2023-10-24 11:30:22.275 | INFO     | Download:ListSeasons:66 - 105 seasons have to be downloaded.
+2023-10-24 11:30:22.275 | INFO     | Download:ListSeasons:66 - 105 seasons have to be downloaded.
+2023-10-24 11:30:22.483 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-01
+2023-10-24 11:30:22.483 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-01
+2023-10-24 11:30:22.483 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-01
+2023-10-24 11:30:22.483 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-01
+2023-10-24 11:30:22.483 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-01
+2023-10-24 11:30:22.483 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-01
+2023-10-24 11:30:22.483 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-01
+2023-10-24 11:30:22.655 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-02
+2023-10-24 11:30:22.655 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-02
+2023-10-24 11:30:22.655 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-02
+2023-10-24 11:30:22.655 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-02
+2023-10-24 11:30:22.655 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-02
+2023-10-24 11:30:22.655 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-02
+2023-10-24 11:30:22.655 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-02
+2023-10-24 11:30:22.819 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-03
+2023-10-24 11:30:22.819 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-03
+2023-10-24 11:30:22.819 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-03
+2023-10-24 11:30:22.819 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-03
+2023-10-24 11:30:22.819 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-03
+2023-10-24 11:30:22.819 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-03
+2023-10-24 11:30:22.819 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-03
+2023-10-24 11:30:23.001 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-04
+2023-10-24 11:30:23.001 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-04
+2023-10-24 11:30:23.001 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-04
+2023-10-24 11:30:23.001 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-04
+2023-10-24 11:30:23.001 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-04
+2023-10-24 11:30:23.001 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-04
+2023-10-24 11:30:23.001 | WARNING  | Download:downloadSeason:79 - No records for season: 2015-04
+2023-10-24 11:30:23.184 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-05
+2023-10-24 11:30:23.184 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-05
+2023-10-24 11:30:23.184 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-05
+2023-10-24 11:30:23.184 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-05
+2023-10-24 11:30:23.184 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-05
+2023-10-24 11:30:23.184 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-05
+2023-10-24 11:30:23.184 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-05
+2023-10-24 11:30:23.707 | INFO     | Download:downloadSeason:98 - Collected 60 out of 65 records.
+2023-10-24 11:30:23.707 | INFO     | Download:downloadSeason:98 - Collected 60 out of 65 records.
+2023-10-24 11:30:23.707 | INFO     | Download:downloadSeason:98 - Collected 60 out of 65 records.
+2023-10-24 11:30:23.707 | INFO     | Download:downloadSeason:98 - Collected 60 out of 65 records.
+2023-10-24 11:30:23.707 | INFO     | Download:downloadSeason:98 - Collected 60 out of 65 records.
+2023-10-24 11:30:23.707 | INFO     | Download:downloadSeason:98 - Collected 60 out of 65 records.
+2023-10-24 11:30:23.707 | INFO     | Download:downloadSeason:98 - Collected 60 out of 65 records.
+2023-10-24 11:30:23.875 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-06
+2023-10-24 11:30:23.875 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-06
+2023-10-24 11:30:23.875 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-06
+2023-10-24 11:30:23.875 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-06
+2023-10-24 11:30:23.875 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-06
+2023-10-24 11:30:23.875 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-06
+2023-10-24 11:30:23.875 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-06
+2023-10-24 11:30:24.743 | INFO     | Download:downloadSeason:98 - Collected 100 out of 116 records.
+2023-10-24 11:30:24.743 | INFO     | Download:downloadSeason:98 - Collected 100 out of 116 records.
+2023-10-24 11:30:24.743 | INFO     | Download:downloadSeason:98 - Collected 100 out of 116 records.
+2023-10-24 11:30:24.743 | INFO     | Download:downloadSeason:98 - Collected 100 out of 116 records.
+2023-10-24 11:30:24.743 | INFO     | Download:downloadSeason:98 - Collected 100 out of 116 records.
+2023-10-24 11:30:24.743 | INFO     | Download:downloadSeason:98 - Collected 100 out of 116 records.
+2023-10-24 11:30:24.743 | INFO     | Download:downloadSeason:98 - Collected 100 out of 116 records.
+2023-10-24 11:30:24.949 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-07
+2023-10-24 11:30:24.949 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-07
+2023-10-24 11:30:24.949 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-07
+2023-10-24 11:30:24.949 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-07
+2023-10-24 11:30:24.949 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-07
+2023-10-24 11:30:24.949 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-07
+2023-10-24 11:30:24.949 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-07
+2023-10-24 11:30:25.885 | INFO     | Download:downloadSeason:98 - Collected 100 out of 100 records.
+2023-10-24 11:30:25.885 | INFO     | Download:downloadSeason:98 - Collected 100 out of 100 records.
+2023-10-24 11:30:25.885 | INFO     | Download:downloadSeason:98 - Collected 100 out of 100 records.
+2023-10-24 11:30:25.885 | INFO     | Download:downloadSeason:98 - Collected 100 out of 100 records.
+2023-10-24 11:30:25.885 | INFO     | Download:downloadSeason:98 - Collected 100 out of 100 records.
+2023-10-24 11:30:25.885 | INFO     | Download:downloadSeason:98 - Collected 100 out of 100 records.
+2023-10-24 11:30:25.885 | INFO     | Download:downloadSeason:98 - Collected 100 out of 100 records.
+2023-10-24 11:30:26.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-08
+2023-10-24 11:30:26.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-08
+2023-10-24 11:30:26.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-08
+2023-10-24 11:30:26.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-08
+2023-10-24 11:30:26.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-08
+2023-10-24 11:30:26.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-08
+2023-10-24 11:30:26.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-08
+2023-10-24 11:30:26.604 | INFO     | Download:downloadSeason:98 - Collected 60 out of 64 records.
+2023-10-24 11:30:26.604 | INFO     | Download:downloadSeason:98 - Collected 60 out of 64 records.
+2023-10-24 11:30:26.604 | INFO     | Download:downloadSeason:98 - Collected 60 out of 64 records.
+2023-10-24 11:30:26.604 | INFO     | Download:downloadSeason:98 - Collected 60 out of 64 records.
+2023-10-24 11:30:26.604 | INFO     | Download:downloadSeason:98 - Collected 60 out of 64 records.
+2023-10-24 11:30:26.604 | INFO     | Download:downloadSeason:98 - Collected 60 out of 64 records.
+2023-10-24 11:30:26.604 | INFO     | Download:downloadSeason:98 - Collected 60 out of 64 records.
+2023-10-24 11:30:26.793 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-09
+2023-10-24 11:30:26.793 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-09
+2023-10-24 11:30:26.793 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-09
+2023-10-24 11:30:26.793 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-09
+2023-10-24 11:30:26.793 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-09
+2023-10-24 11:30:26.793 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-09
+2023-10-24 11:30:26.793 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-09
+2023-10-24 11:30:28.616 | INFO     | Download:downloadSeason:98 - Collected 200 out of 217 records.
+2023-10-24 11:30:28.616 | INFO     | Download:downloadSeason:98 - Collected 200 out of 217 records.
+2023-10-24 11:30:28.616 | INFO     | Download:downloadSeason:98 - Collected 200 out of 217 records.
+2023-10-24 11:30:28.616 | INFO     | Download:downloadSeason:98 - Collected 200 out of 217 records.
+2023-10-24 11:30:28.616 | INFO     | Download:downloadSeason:98 - Collected 200 out of 217 records.
+2023-10-24 11:30:28.616 | INFO     | Download:downloadSeason:98 - Collected 200 out of 217 records.
+2023-10-24 11:30:28.616 | INFO     | Download:downloadSeason:98 - Collected 200 out of 217 records.
+2023-10-24 11:30:28.781 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-10
+2023-10-24 11:30:28.781 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-10
+2023-10-24 11:30:28.781 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-10
+2023-10-24 11:30:28.781 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-10
+2023-10-24 11:30:28.781 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-10
+2023-10-24 11:30:28.781 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-10
+2023-10-24 11:30:28.781 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-10
+2023-10-24 11:30:30.208 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:30.208 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:30.208 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:30.208 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:30.208 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:30.208 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:30.208 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:30.387 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-11
+2023-10-24 11:30:30.387 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-11
+2023-10-24 11:30:30.387 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-11
+2023-10-24 11:30:30.387 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-11
+2023-10-24 11:30:30.387 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-11
+2023-10-24 11:30:30.387 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-11
+2023-10-24 11:30:30.387 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-11
+2023-10-24 11:30:31.495 | INFO     | Download:downloadSeason:98 - Collected 120 out of 129 records.
+2023-10-24 11:30:31.495 | INFO     | Download:downloadSeason:98 - Collected 120 out of 129 records.
+2023-10-24 11:30:31.495 | INFO     | Download:downloadSeason:98 - Collected 120 out of 129 records.
+2023-10-24 11:30:31.495 | INFO     | Download:downloadSeason:98 - Collected 120 out of 129 records.
+2023-10-24 11:30:31.495 | INFO     | Download:downloadSeason:98 - Collected 120 out of 129 records.
+2023-10-24 11:30:31.495 | INFO     | Download:downloadSeason:98 - Collected 120 out of 129 records.
+2023-10-24 11:30:31.495 | INFO     | Download:downloadSeason:98 - Collected 120 out of 129 records.
+2023-10-24 11:30:31.693 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-12
+2023-10-24 11:30:31.693 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-12
+2023-10-24 11:30:31.693 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-12
+2023-10-24 11:30:31.693 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-12
+2023-10-24 11:30:31.693 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-12
+2023-10-24 11:30:31.693 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-12
+2023-10-24 11:30:31.693 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2015-12
+2023-10-24 11:30:32.743 | INFO     | Download:downloadSeason:98 - Collected 120 out of 132 records.
+2023-10-24 11:30:32.743 | INFO     | Download:downloadSeason:98 - Collected 120 out of 132 records.
+2023-10-24 11:30:32.743 | INFO     | Download:downloadSeason:98 - Collected 120 out of 132 records.
+2023-10-24 11:30:32.743 | INFO     | Download:downloadSeason:98 - Collected 120 out of 132 records.
+2023-10-24 11:30:32.743 | INFO     | Download:downloadSeason:98 - Collected 120 out of 132 records.
+2023-10-24 11:30:32.743 | INFO     | Download:downloadSeason:98 - Collected 120 out of 132 records.
+2023-10-24 11:30:32.743 | INFO     | Download:downloadSeason:98 - Collected 120 out of 132 records.
+2023-10-24 11:30:32.923 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-01
+2023-10-24 11:30:32.923 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-01
+2023-10-24 11:30:32.923 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-01
+2023-10-24 11:30:32.923 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-01
+2023-10-24 11:30:32.923 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-01
+2023-10-24 11:30:32.923 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-01
+2023-10-24 11:30:32.923 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-01
+2023-10-24 11:30:34.717 | INFO     | Download:downloadSeason:98 - Collected 200 out of 201 records.
+2023-10-24 11:30:34.717 | INFO     | Download:downloadSeason:98 - Collected 200 out of 201 records.
+2023-10-24 11:30:34.717 | INFO     | Download:downloadSeason:98 - Collected 200 out of 201 records.
+2023-10-24 11:30:34.717 | INFO     | Download:downloadSeason:98 - Collected 200 out of 201 records.
+2023-10-24 11:30:34.717 | INFO     | Download:downloadSeason:98 - Collected 200 out of 201 records.
+2023-10-24 11:30:34.717 | INFO     | Download:downloadSeason:98 - Collected 200 out of 201 records.
+2023-10-24 11:30:34.717 | INFO     | Download:downloadSeason:98 - Collected 200 out of 201 records.
+2023-10-24 11:30:34.904 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-02
+2023-10-24 11:30:34.904 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-02
+2023-10-24 11:30:34.904 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-02
+2023-10-24 11:30:34.904 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-02
+2023-10-24 11:30:34.904 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-02
+2023-10-24 11:30:34.904 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-02
+2023-10-24 11:30:34.904 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-02
+2023-10-24 11:30:36.260 | INFO     | Download:downloadSeason:98 - Collected 160 out of 178 records.
+2023-10-24 11:30:36.260 | INFO     | Download:downloadSeason:98 - Collected 160 out of 178 records.
+2023-10-24 11:30:36.260 | INFO     | Download:downloadSeason:98 - Collected 160 out of 178 records.
+2023-10-24 11:30:36.260 | INFO     | Download:downloadSeason:98 - Collected 160 out of 178 records.
+2023-10-24 11:30:36.260 | INFO     | Download:downloadSeason:98 - Collected 160 out of 178 records.
+2023-10-24 11:30:36.260 | INFO     | Download:downloadSeason:98 - Collected 160 out of 178 records.
+2023-10-24 11:30:36.260 | INFO     | Download:downloadSeason:98 - Collected 160 out of 178 records.
+2023-10-24 11:30:36.436 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-03
+2023-10-24 11:30:36.436 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-03
+2023-10-24 11:30:36.436 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-03
+2023-10-24 11:30:36.436 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-03
+2023-10-24 11:30:36.436 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-03
+2023-10-24 11:30:36.436 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-03
+2023-10-24 11:30:36.436 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-03
+2023-10-24 11:30:37.885 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:37.885 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:37.885 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:37.885 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:37.885 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:37.885 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:37.885 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:38.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-04
+2023-10-24 11:30:38.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-04
+2023-10-24 11:30:38.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-04
+2023-10-24 11:30:38.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-04
+2023-10-24 11:30:38.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-04
+2023-10-24 11:30:38.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-04
+2023-10-24 11:30:38.062 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-04
+2023-10-24 11:30:39.882 | INFO     | Download:downloadSeason:98 - Collected 200 out of 215 records.
+2023-10-24 11:30:39.882 | INFO     | Download:downloadSeason:98 - Collected 200 out of 215 records.
+2023-10-24 11:30:39.882 | INFO     | Download:downloadSeason:98 - Collected 200 out of 215 records.
+2023-10-24 11:30:39.882 | INFO     | Download:downloadSeason:98 - Collected 200 out of 215 records.
+2023-10-24 11:30:39.882 | INFO     | Download:downloadSeason:98 - Collected 200 out of 215 records.
+2023-10-24 11:30:39.882 | INFO     | Download:downloadSeason:98 - Collected 200 out of 215 records.
+2023-10-24 11:30:39.882 | INFO     | Download:downloadSeason:98 - Collected 200 out of 215 records.
+2023-10-24 11:30:40.058 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-05
+2023-10-24 11:30:40.058 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-05
+2023-10-24 11:30:40.058 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-05
+2023-10-24 11:30:40.058 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-05
+2023-10-24 11:30:40.058 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-05
+2023-10-24 11:30:40.058 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-05
+2023-10-24 11:30:40.058 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-05
+2023-10-24 11:30:41.422 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:41.422 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:41.422 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:41.422 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:41.422 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:41.422 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:41.422 | INFO     | Download:downloadSeason:98 - Collected 160 out of 165 records.
+2023-10-24 11:30:41.602 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-06
+2023-10-24 11:30:41.602 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-06
+2023-10-24 11:30:41.602 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-06
+2023-10-24 11:30:41.602 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-06
+2023-10-24 11:30:41.602 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-06
+2023-10-24 11:30:41.602 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-06
+2023-10-24 11:30:41.602 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-06
+2023-10-24 11:30:54.207 | INFO     | Download:downloadSeason:98 - Collected 1420 out of 1424 records.
+2023-10-24 11:30:54.207 | INFO     | Download:downloadSeason:98 - Collected 1420 out of 1424 records.
+2023-10-24 11:30:54.207 | INFO     | Download:downloadSeason:98 - Collected 1420 out of 1424 records.
+2023-10-24 11:30:54.207 | INFO     | Download:downloadSeason:98 - Collected 1420 out of 1424 records.
+2023-10-24 11:30:54.207 | INFO     | Download:downloadSeason:98 - Collected 1420 out of 1424 records.
+2023-10-24 11:30:54.207 | INFO     | Download:downloadSeason:98 - Collected 1420 out of 1424 records.
+2023-10-24 11:30:54.207 | INFO     | Download:downloadSeason:98 - Collected 1420 out of 1424 records.
+2023-10-24 11:30:54.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-07
+2023-10-24 11:30:54.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-07
+2023-10-24 11:30:54.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-07
+2023-10-24 11:30:54.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-07
+2023-10-24 11:30:54.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-07
+2023-10-24 11:30:54.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-07
+2023-10-24 11:30:54.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-07
+2023-10-24 11:31:15.447 | INFO     | Download:downloadSeason:98 - Collected 2380 out of 2397 records.
+2023-10-24 11:31:15.447 | INFO     | Download:downloadSeason:98 - Collected 2380 out of 2397 records.
+2023-10-24 11:31:15.447 | INFO     | Download:downloadSeason:98 - Collected 2380 out of 2397 records.
+2023-10-24 11:31:15.447 | INFO     | Download:downloadSeason:98 - Collected 2380 out of 2397 records.
+2023-10-24 11:31:15.447 | INFO     | Download:downloadSeason:98 - Collected 2380 out of 2397 records.
+2023-10-24 11:31:15.447 | INFO     | Download:downloadSeason:98 - Collected 2380 out of 2397 records.
+2023-10-24 11:31:15.447 | INFO     | Download:downloadSeason:98 - Collected 2380 out of 2397 records.
+2023-10-24 11:31:15.634 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-08
+2023-10-24 11:31:15.634 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-08
+2023-10-24 11:31:15.634 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-08
+2023-10-24 11:31:15.634 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-08
+2023-10-24 11:31:15.634 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-08
+2023-10-24 11:31:15.634 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-08
+2023-10-24 11:31:15.634 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-08
+2023-10-24 11:31:34.483 | INFO     | Download:downloadSeason:98 - Collected 2100 out of 2119 records.
+2023-10-24 11:31:34.483 | INFO     | Download:downloadSeason:98 - Collected 2100 out of 2119 records.
+2023-10-24 11:31:34.483 | INFO     | Download:downloadSeason:98 - Collected 2100 out of 2119 records.
+2023-10-24 11:31:34.483 | INFO     | Download:downloadSeason:98 - Collected 2100 out of 2119 records.
+2023-10-24 11:31:34.483 | INFO     | Download:downloadSeason:98 - Collected 2100 out of 2119 records.
+2023-10-24 11:31:34.483 | INFO     | Download:downloadSeason:98 - Collected 2100 out of 2119 records.
+2023-10-24 11:31:34.483 | INFO     | Download:downloadSeason:98 - Collected 2100 out of 2119 records.
+2023-10-24 11:31:34.665 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-09
+2023-10-24 11:31:34.665 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-09
+2023-10-24 11:31:34.665 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-09
+2023-10-24 11:31:34.665 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-09
+2023-10-24 11:31:34.665 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-09
+2023-10-24 11:31:34.665 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-09
+2023-10-24 11:31:34.665 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-09
+2023-10-24 11:31:49.719 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1730 records.
+2023-10-24 11:31:49.719 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1730 records.
+2023-10-24 11:31:49.719 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1730 records.
+2023-10-24 11:31:49.719 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1730 records.
+2023-10-24 11:31:49.719 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1730 records.
+2023-10-24 11:31:49.719 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1730 records.
+2023-10-24 11:31:49.719 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1730 records.
+2023-10-24 11:31:49.890 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-10
+2023-10-24 11:31:49.890 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-10
+2023-10-24 11:31:49.890 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-10
+2023-10-24 11:31:49.890 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-10
+2023-10-24 11:31:49.890 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-10
+2023-10-24 11:31:49.890 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-10
+2023-10-24 11:31:49.890 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-10
+2023-10-24 11:32:03.115 | INFO     | Download:downloadSeason:98 - Collected 1500 out of 1518 records.
+2023-10-24 11:32:03.115 | INFO     | Download:downloadSeason:98 - Collected 1500 out of 1518 records.
+2023-10-24 11:32:03.115 | INFO     | Download:downloadSeason:98 - Collected 1500 out of 1518 records.
+2023-10-24 11:32:03.115 | INFO     | Download:downloadSeason:98 - Collected 1500 out of 1518 records.
+2023-10-24 11:32:03.115 | INFO     | Download:downloadSeason:98 - Collected 1500 out of 1518 records.
+2023-10-24 11:32:03.115 | INFO     | Download:downloadSeason:98 - Collected 1500 out of 1518 records.
+2023-10-24 11:32:03.115 | INFO     | Download:downloadSeason:98 - Collected 1500 out of 1518 records.
+2023-10-24 11:32:03.276 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-11
+2023-10-24 11:32:03.276 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-11
+2023-10-24 11:32:03.276 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-11
+2023-10-24 11:32:03.276 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-11
+2023-10-24 11:32:03.276 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-11
+2023-10-24 11:32:03.276 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-11
+2023-10-24 11:32:03.276 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-11
+2023-10-24 11:32:25.827 | INFO     | Download:downloadSeason:98 - Collected 2580 out of 2596 records.
+2023-10-24 11:32:25.827 | INFO     | Download:downloadSeason:98 - Collected 2580 out of 2596 records.
+2023-10-24 11:32:25.827 | INFO     | Download:downloadSeason:98 - Collected 2580 out of 2596 records.
+2023-10-24 11:32:25.827 | INFO     | Download:downloadSeason:98 - Collected 2580 out of 2596 records.
+2023-10-24 11:32:25.827 | INFO     | Download:downloadSeason:98 - Collected 2580 out of 2596 records.
+2023-10-24 11:32:25.827 | INFO     | Download:downloadSeason:98 - Collected 2580 out of 2596 records.
+2023-10-24 11:32:25.827 | INFO     | Download:downloadSeason:98 - Collected 2580 out of 2596 records.
+2023-10-24 11:32:25.996 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-12
+2023-10-24 11:32:25.996 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-12
+2023-10-24 11:32:25.996 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-12
+2023-10-24 11:32:25.996 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-12
+2023-10-24 11:32:25.996 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-12
+2023-10-24 11:32:25.996 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-12
+2023-10-24 11:32:25.996 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2016-12
+2023-10-24 11:32:52.575 | INFO     | Download:downloadSeason:98 - Collected 2980 out of 2981 records.
+2023-10-24 11:32:52.575 | INFO     | Download:downloadSeason:98 - Collected 2980 out of 2981 records.
+2023-10-24 11:32:52.575 | INFO     | Download:downloadSeason:98 - Collected 2980 out of 2981 records.
+2023-10-24 11:32:52.575 | INFO     | Download:downloadSeason:98 - Collected 2980 out of 2981 records.
+2023-10-24 11:32:52.575 | INFO     | Download:downloadSeason:98 - Collected 2980 out of 2981 records.
+2023-10-24 11:32:52.575 | INFO     | Download:downloadSeason:98 - Collected 2980 out of 2981 records.
+2023-10-24 11:32:52.575 | INFO     | Download:downloadSeason:98 - Collected 2980 out of 2981 records.
+2023-10-24 11:32:52.748 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-01
+2023-10-24 11:32:52.748 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-01
+2023-10-24 11:32:52.748 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-01
+2023-10-24 11:32:52.748 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-01
+2023-10-24 11:32:52.748 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-01
+2023-10-24 11:32:52.748 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-01
+2023-10-24 11:32:52.748 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-01
+2023-10-24 11:33:16.474 | INFO     | Download:downloadSeason:98 - Collected 2720 out of 2730 records.
+2023-10-24 11:33:16.474 | INFO     | Download:downloadSeason:98 - Collected 2720 out of 2730 records.
+2023-10-24 11:33:16.474 | INFO     | Download:downloadSeason:98 - Collected 2720 out of 2730 records.
+2023-10-24 11:33:16.474 | INFO     | Download:downloadSeason:98 - Collected 2720 out of 2730 records.
+2023-10-24 11:33:16.474 | INFO     | Download:downloadSeason:98 - Collected 2720 out of 2730 records.
+2023-10-24 11:33:16.474 | INFO     | Download:downloadSeason:98 - Collected 2720 out of 2730 records.
+2023-10-24 11:33:16.474 | INFO     | Download:downloadSeason:98 - Collected 2720 out of 2730 records.
+2023-10-24 11:33:16.678 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-02
+2023-10-24 11:33:16.678 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-02
+2023-10-24 11:33:16.678 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-02
+2023-10-24 11:33:16.678 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-02
+2023-10-24 11:33:16.678 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-02
+2023-10-24 11:33:16.678 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-02
+2023-10-24 11:33:16.678 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-02
+2023-10-24 11:33:40.917 | INFO     | Download:downloadSeason:98 - Collected 2320 out of 2322 records.
+2023-10-24 11:33:40.917 | INFO     | Download:downloadSeason:98 - Collected 2320 out of 2322 records.
+2023-10-24 11:33:40.917 | INFO     | Download:downloadSeason:98 - Collected 2320 out of 2322 records.
+2023-10-24 11:33:40.917 | INFO     | Download:downloadSeason:98 - Collected 2320 out of 2322 records.
+2023-10-24 11:33:40.917 | INFO     | Download:downloadSeason:98 - Collected 2320 out of 2322 records.
+2023-10-24 11:33:40.917 | INFO     | Download:downloadSeason:98 - Collected 2320 out of 2322 records.
+2023-10-24 11:33:40.917 | INFO     | Download:downloadSeason:98 - Collected 2320 out of 2322 records.
+2023-10-24 11:33:41.093 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-03
+2023-10-24 11:33:41.093 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-03
+2023-10-24 11:33:41.093 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-03
+2023-10-24 11:33:41.093 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-03
+2023-10-24 11:33:41.093 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-03
+2023-10-24 11:33:41.093 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-03
+2023-10-24 11:33:41.093 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-03
+2023-10-24 11:34:05.381 | INFO     | Download:downloadSeason:98 - Collected 2340 out of 2343 records.
+2023-10-24 11:34:05.381 | INFO     | Download:downloadSeason:98 - Collected 2340 out of 2343 records.
+2023-10-24 11:34:05.381 | INFO     | Download:downloadSeason:98 - Collected 2340 out of 2343 records.
+2023-10-24 11:34:05.381 | INFO     | Download:downloadSeason:98 - Collected 2340 out of 2343 records.
+2023-10-24 11:34:05.381 | INFO     | Download:downloadSeason:98 - Collected 2340 out of 2343 records.
+2023-10-24 11:34:05.381 | INFO     | Download:downloadSeason:98 - Collected 2340 out of 2343 records.
+2023-10-24 11:34:05.381 | INFO     | Download:downloadSeason:98 - Collected 2340 out of 2343 records.
+2023-10-24 11:34:05.563 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-04
+2023-10-24 11:34:05.563 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-04
+2023-10-24 11:34:05.563 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-04
+2023-10-24 11:34:05.563 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-04
+2023-10-24 11:34:05.563 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-04
+2023-10-24 11:34:05.563 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-04
+2023-10-24 11:34:05.563 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-04
+2023-10-24 11:34:25.788 | INFO     | Download:downloadSeason:98 - Collected 2240 out of 2248 records.
+2023-10-24 11:34:25.788 | INFO     | Download:downloadSeason:98 - Collected 2240 out of 2248 records.
+2023-10-24 11:34:25.788 | INFO     | Download:downloadSeason:98 - Collected 2240 out of 2248 records.
+2023-10-24 11:34:25.788 | INFO     | Download:downloadSeason:98 - Collected 2240 out of 2248 records.
+2023-10-24 11:34:25.788 | INFO     | Download:downloadSeason:98 - Collected 2240 out of 2248 records.
+2023-10-24 11:34:25.788 | INFO     | Download:downloadSeason:98 - Collected 2240 out of 2248 records.
+2023-10-24 11:34:25.788 | INFO     | Download:downloadSeason:98 - Collected 2240 out of 2248 records.
+2023-10-24 11:34:25.963 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-05
+2023-10-24 11:34:25.963 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-05
+2023-10-24 11:34:25.963 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-05
+2023-10-24 11:34:25.963 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-05
+2023-10-24 11:34:25.963 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-05
+2023-10-24 11:34:25.963 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-05
+2023-10-24 11:34:25.963 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-05
+2023-10-24 11:34:44.866 | INFO     | Download:downloadSeason:98 - Collected 2140 out of 2148 records.
+2023-10-24 11:34:44.866 | INFO     | Download:downloadSeason:98 - Collected 2140 out of 2148 records.
+2023-10-24 11:34:44.866 | INFO     | Download:downloadSeason:98 - Collected 2140 out of 2148 records.
+2023-10-24 11:34:44.866 | INFO     | Download:downloadSeason:98 - Collected 2140 out of 2148 records.
+2023-10-24 11:34:44.866 | INFO     | Download:downloadSeason:98 - Collected 2140 out of 2148 records.
+2023-10-24 11:34:44.866 | INFO     | Download:downloadSeason:98 - Collected 2140 out of 2148 records.
+2023-10-24 11:34:44.866 | INFO     | Download:downloadSeason:98 - Collected 2140 out of 2148 records.
+2023-10-24 11:34:45.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-06
+2023-10-24 11:34:45.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-06
+2023-10-24 11:34:45.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-06
+2023-10-24 11:34:45.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-06
+2023-10-24 11:34:45.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-06
+2023-10-24 11:34:45.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-06
+2023-10-24 11:34:45.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-06
+2023-10-24 11:35:03.426 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2079 records.
+2023-10-24 11:35:03.426 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2079 records.
+2023-10-24 11:35:03.426 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2079 records.
+2023-10-24 11:35:03.426 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2079 records.
+2023-10-24 11:35:03.426 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2079 records.
+2023-10-24 11:35:03.426 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2079 records.
+2023-10-24 11:35:03.426 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2079 records.
+2023-10-24 11:35:03.594 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-07
+2023-10-24 11:35:03.594 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-07
+2023-10-24 11:35:03.594 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-07
+2023-10-24 11:35:03.594 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-07
+2023-10-24 11:35:03.594 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-07
+2023-10-24 11:35:03.594 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-07
+2023-10-24 11:35:03.594 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-07
+2023-10-24 11:35:21.199 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2017 records.
+2023-10-24 11:35:21.199 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2017 records.
+2023-10-24 11:35:21.199 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2017 records.
+2023-10-24 11:35:21.199 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2017 records.
+2023-10-24 11:35:21.199 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2017 records.
+2023-10-24 11:35:21.199 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2017 records.
+2023-10-24 11:35:21.199 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2017 records.
+2023-10-24 11:35:21.378 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-08
+2023-10-24 11:35:21.378 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-08
+2023-10-24 11:35:21.378 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-08
+2023-10-24 11:35:21.378 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-08
+2023-10-24 11:35:21.378 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-08
+2023-10-24 11:35:21.378 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-08
+2023-10-24 11:35:21.378 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-08
+2023-10-24 11:35:40.917 | INFO     | Download:downloadSeason:98 - Collected 2160 out of 2175 records.
+2023-10-24 11:35:40.917 | INFO     | Download:downloadSeason:98 - Collected 2160 out of 2175 records.
+2023-10-24 11:35:40.917 | INFO     | Download:downloadSeason:98 - Collected 2160 out of 2175 records.
+2023-10-24 11:35:40.917 | INFO     | Download:downloadSeason:98 - Collected 2160 out of 2175 records.
+2023-10-24 11:35:40.917 | INFO     | Download:downloadSeason:98 - Collected 2160 out of 2175 records.
+2023-10-24 11:35:40.917 | INFO     | Download:downloadSeason:98 - Collected 2160 out of 2175 records.
+2023-10-24 11:35:40.917 | INFO     | Download:downloadSeason:98 - Collected 2160 out of 2175 records.
+2023-10-24 11:35:41.091 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-09
+2023-10-24 11:35:41.091 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-09
+2023-10-24 11:35:41.091 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-09
+2023-10-24 11:35:41.091 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-09
+2023-10-24 11:35:41.091 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-09
+2023-10-24 11:35:41.091 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-09
+2023-10-24 11:35:41.091 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-09
+2023-10-24 11:35:59.298 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2014 records.
+2023-10-24 11:35:59.298 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2014 records.
+2023-10-24 11:35:59.298 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2014 records.
+2023-10-24 11:35:59.298 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2014 records.
+2023-10-24 11:35:59.298 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2014 records.
+2023-10-24 11:35:59.298 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2014 records.
+2023-10-24 11:35:59.298 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2014 records.
+2023-10-24 11:35:59.478 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-10
+2023-10-24 11:35:59.478 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-10
+2023-10-24 11:35:59.478 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-10
+2023-10-24 11:35:59.478 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-10
+2023-10-24 11:35:59.478 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-10
+2023-10-24 11:35:59.478 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-10
+2023-10-24 11:35:59.478 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-10
+2023-10-24 11:36:17.390 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:36:17.390 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:36:17.390 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:36:17.390 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:36:17.390 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:36:17.390 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:36:17.390 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:36:17.570 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-11
+2023-10-24 11:36:17.570 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-11
+2023-10-24 11:36:17.570 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-11
+2023-10-24 11:36:17.570 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-11
+2023-10-24 11:36:17.570 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-11
+2023-10-24 11:36:17.570 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-11
+2023-10-24 11:36:17.570 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-11
+2023-10-24 11:36:34.947 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1992 records.
+2023-10-24 11:36:34.947 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1992 records.
+2023-10-24 11:36:34.947 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1992 records.
+2023-10-24 11:36:34.947 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1992 records.
+2023-10-24 11:36:34.947 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1992 records.
+2023-10-24 11:36:34.947 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1992 records.
+2023-10-24 11:36:34.947 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1992 records.
+2023-10-24 11:36:35.120 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-12
+2023-10-24 11:36:35.120 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-12
+2023-10-24 11:36:35.120 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-12
+2023-10-24 11:36:35.120 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-12
+2023-10-24 11:36:35.120 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-12
+2023-10-24 11:36:35.120 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-12
+2023-10-24 11:36:35.120 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2017-12
+2023-10-24 11:36:53.052 | INFO     | Download:downloadSeason:98 - Collected 2040 out of 2058 records.
+2023-10-24 11:36:53.052 | INFO     | Download:downloadSeason:98 - Collected 2040 out of 2058 records.
+2023-10-24 11:36:53.052 | INFO     | Download:downloadSeason:98 - Collected 2040 out of 2058 records.
+2023-10-24 11:36:53.052 | INFO     | Download:downloadSeason:98 - Collected 2040 out of 2058 records.
+2023-10-24 11:36:53.052 | INFO     | Download:downloadSeason:98 - Collected 2040 out of 2058 records.
+2023-10-24 11:36:53.052 | INFO     | Download:downloadSeason:98 - Collected 2040 out of 2058 records.
+2023-10-24 11:36:53.052 | INFO     | Download:downloadSeason:98 - Collected 2040 out of 2058 records.
+2023-10-24 11:36:53.231 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-01
+2023-10-24 11:36:53.231 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-01
+2023-10-24 11:36:53.231 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-01
+2023-10-24 11:36:53.231 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-01
+2023-10-24 11:36:53.231 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-01
+2023-10-24 11:36:53.231 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-01
+2023-10-24 11:36:53.231 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-01
+2023-10-24 11:37:10.933 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:37:10.933 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:37:10.933 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:37:10.933 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:37:10.933 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:37:10.933 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:37:10.933 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:37:11.124 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-02
+2023-10-24 11:37:11.124 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-02
+2023-10-24 11:37:11.124 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-02
+2023-10-24 11:37:11.124 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-02
+2023-10-24 11:37:11.124 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-02
+2023-10-24 11:37:11.124 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-02
+2023-10-24 11:37:11.124 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-02
+2023-10-24 11:37:26.236 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1715 records.
+2023-10-24 11:37:26.236 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1715 records.
+2023-10-24 11:37:26.236 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1715 records.
+2023-10-24 11:37:26.236 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1715 records.
+2023-10-24 11:37:26.236 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1715 records.
+2023-10-24 11:37:26.236 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1715 records.
+2023-10-24 11:37:26.236 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1715 records.
+2023-10-24 11:37:26.406 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-03
+2023-10-24 11:37:26.406 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-03
+2023-10-24 11:37:26.406 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-03
+2023-10-24 11:37:26.406 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-03
+2023-10-24 11:37:26.406 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-03
+2023-10-24 11:37:26.406 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-03
+2023-10-24 11:37:26.406 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-03
+2023-10-24 11:37:41.325 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:37:41.325 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:37:41.325 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:37:41.325 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:37:41.325 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:37:41.325 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:37:41.325 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:37:41.506 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-04
+2023-10-24 11:37:41.506 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-04
+2023-10-24 11:37:41.506 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-04
+2023-10-24 11:37:41.506 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-04
+2023-10-24 11:37:41.506 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-04
+2023-10-24 11:37:41.506 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-04
+2023-10-24 11:37:41.506 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-04
+2023-10-24 11:37:55.699 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1584 records.
+2023-10-24 11:37:55.699 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1584 records.
+2023-10-24 11:37:55.699 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1584 records.
+2023-10-24 11:37:55.699 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1584 records.
+2023-10-24 11:37:55.699 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1584 records.
+2023-10-24 11:37:55.699 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1584 records.
+2023-10-24 11:37:55.699 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1584 records.
+2023-10-24 11:37:55.881 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-05
+2023-10-24 11:37:55.881 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-05
+2023-10-24 11:37:55.881 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-05
+2023-10-24 11:37:55.881 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-05
+2023-10-24 11:37:55.881 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-05
+2023-10-24 11:37:55.881 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-05
+2023-10-24 11:37:55.881 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-05
+2023-10-24 11:38:10.374 | INFO     | Download:downloadSeason:98 - Collected 1600 out of 1608 records.
+2023-10-24 11:38:10.374 | INFO     | Download:downloadSeason:98 - Collected 1600 out of 1608 records.
+2023-10-24 11:38:10.374 | INFO     | Download:downloadSeason:98 - Collected 1600 out of 1608 records.
+2023-10-24 11:38:10.374 | INFO     | Download:downloadSeason:98 - Collected 1600 out of 1608 records.
+2023-10-24 11:38:10.374 | INFO     | Download:downloadSeason:98 - Collected 1600 out of 1608 records.
+2023-10-24 11:38:10.374 | INFO     | Download:downloadSeason:98 - Collected 1600 out of 1608 records.
+2023-10-24 11:38:10.374 | INFO     | Download:downloadSeason:98 - Collected 1600 out of 1608 records.
+2023-10-24 11:38:10.567 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-06
+2023-10-24 11:38:10.567 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-06
+2023-10-24 11:38:10.567 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-06
+2023-10-24 11:38:10.567 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-06
+2023-10-24 11:38:10.567 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-06
+2023-10-24 11:38:10.567 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-06
+2023-10-24 11:38:10.567 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-06
+2023-10-24 11:38:26.045 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1753 records.
+2023-10-24 11:38:26.045 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1753 records.
+2023-10-24 11:38:26.045 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1753 records.
+2023-10-24 11:38:26.045 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1753 records.
+2023-10-24 11:38:26.045 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1753 records.
+2023-10-24 11:38:26.045 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1753 records.
+2023-10-24 11:38:26.045 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1753 records.
+2023-10-24 11:38:26.217 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-07
+2023-10-24 11:38:26.217 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-07
+2023-10-24 11:38:26.217 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-07
+2023-10-24 11:38:26.217 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-07
+2023-10-24 11:38:26.217 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-07
+2023-10-24 11:38:26.217 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-07
+2023-10-24 11:38:26.217 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-07
+2023-10-24 11:38:46.068 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1912 records.
+2023-10-24 11:38:46.068 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1912 records.
+2023-10-24 11:38:46.068 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1912 records.
+2023-10-24 11:38:46.068 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1912 records.
+2023-10-24 11:38:46.068 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1912 records.
+2023-10-24 11:38:46.068 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1912 records.
+2023-10-24 11:38:46.068 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1912 records.
+2023-10-24 11:38:46.262 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-08
+2023-10-24 11:38:46.262 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-08
+2023-10-24 11:38:46.262 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-08
+2023-10-24 11:38:46.262 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-08
+2023-10-24 11:38:46.262 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-08
+2023-10-24 11:38:46.262 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-08
+2023-10-24 11:38:46.262 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-08
+2023-10-24 11:39:03.377 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1702 records.
+2023-10-24 11:39:03.377 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1702 records.
+2023-10-24 11:39:03.377 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1702 records.
+2023-10-24 11:39:03.377 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1702 records.
+2023-10-24 11:39:03.377 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1702 records.
+2023-10-24 11:39:03.377 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1702 records.
+2023-10-24 11:39:03.377 | INFO     | Download:downloadSeason:98 - Collected 1700 out of 1702 records.
+2023-10-24 11:39:03.571 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-09
+2023-10-24 11:39:03.571 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-09
+2023-10-24 11:39:03.571 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-09
+2023-10-24 11:39:03.571 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-09
+2023-10-24 11:39:03.571 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-09
+2023-10-24 11:39:03.571 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-09
+2023-10-24 11:39:03.571 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-09
+2023-10-24 11:39:19.711 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1597 records.
+2023-10-24 11:39:19.711 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1597 records.
+2023-10-24 11:39:19.711 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1597 records.
+2023-10-24 11:39:19.711 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1597 records.
+2023-10-24 11:39:19.711 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1597 records.
+2023-10-24 11:39:19.711 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1597 records.
+2023-10-24 11:39:19.711 | INFO     | Download:downloadSeason:98 - Collected 1580 out of 1597 records.
+2023-10-24 11:39:19.895 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-10
+2023-10-24 11:39:19.895 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-10
+2023-10-24 11:39:19.895 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-10
+2023-10-24 11:39:19.895 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-10
+2023-10-24 11:39:19.895 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-10
+2023-10-24 11:39:19.895 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-10
+2023-10-24 11:39:19.895 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-10
+2023-10-24 11:39:37.203 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:39:37.203 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:39:37.203 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:39:37.203 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:39:37.203 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:39:37.203 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:39:37.203 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1979 records.
+2023-10-24 11:39:37.391 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-11
+2023-10-24 11:39:37.391 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-11
+2023-10-24 11:39:37.391 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-11
+2023-10-24 11:39:37.391 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-11
+2023-10-24 11:39:37.391 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-11
+2023-10-24 11:39:37.391 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-11
+2023-10-24 11:39:37.391 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-11
+2023-10-24 11:39:54.479 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1901 records.
+2023-10-24 11:39:54.479 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1901 records.
+2023-10-24 11:39:54.479 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1901 records.
+2023-10-24 11:39:54.479 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1901 records.
+2023-10-24 11:39:54.479 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1901 records.
+2023-10-24 11:39:54.479 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1901 records.
+2023-10-24 11:39:54.479 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1901 records.
+2023-10-24 11:39:54.688 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-12
+2023-10-24 11:39:54.688 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-12
+2023-10-24 11:39:54.688 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-12
+2023-10-24 11:39:54.688 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-12
+2023-10-24 11:39:54.688 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-12
+2023-10-24 11:39:54.688 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-12
+2023-10-24 11:39:54.688 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2018-12
+2023-10-24 11:40:10.147 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1759 records.
+2023-10-24 11:40:10.147 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1759 records.
+2023-10-24 11:40:10.147 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1759 records.
+2023-10-24 11:40:10.147 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1759 records.
+2023-10-24 11:40:10.147 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1759 records.
+2023-10-24 11:40:10.147 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1759 records.
+2023-10-24 11:40:10.147 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1759 records.
+2023-10-24 11:40:10.327 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-01
+2023-10-24 11:40:10.327 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-01
+2023-10-24 11:40:10.327 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-01
+2023-10-24 11:40:10.327 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-01
+2023-10-24 11:40:10.327 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-01
+2023-10-24 11:40:10.327 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-01
+2023-10-24 11:40:10.327 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-01
+2023-10-24 11:40:25.951 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1673 records.
+2023-10-24 11:40:25.951 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1673 records.
+2023-10-24 11:40:25.951 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1673 records.
+2023-10-24 11:40:25.951 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1673 records.
+2023-10-24 11:40:25.951 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1673 records.
+2023-10-24 11:40:25.951 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1673 records.
+2023-10-24 11:40:25.951 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1673 records.
+2023-10-24 11:40:26.121 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-02
+2023-10-24 11:40:26.121 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-02
+2023-10-24 11:40:26.121 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-02
+2023-10-24 11:40:26.121 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-02
+2023-10-24 11:40:26.121 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-02
+2023-10-24 11:40:26.121 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-02
+2023-10-24 11:40:26.121 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-02
+2023-10-24 11:40:39.630 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1550 records.
+2023-10-24 11:40:39.630 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1550 records.
+2023-10-24 11:40:39.630 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1550 records.
+2023-10-24 11:40:39.630 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1550 records.
+2023-10-24 11:40:39.630 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1550 records.
+2023-10-24 11:40:39.630 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1550 records.
+2023-10-24 11:40:39.630 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1550 records.
+2023-10-24 11:40:39.865 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-03
+2023-10-24 11:40:39.865 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-03
+2023-10-24 11:40:39.865 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-03
+2023-10-24 11:40:39.865 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-03
+2023-10-24 11:40:39.865 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-03
+2023-10-24 11:40:39.865 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-03
+2023-10-24 11:40:39.865 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-03
+2023-10-24 11:40:54.432 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1668 records.
+2023-10-24 11:40:54.432 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1668 records.
+2023-10-24 11:40:54.432 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1668 records.
+2023-10-24 11:40:54.432 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1668 records.
+2023-10-24 11:40:54.432 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1668 records.
+2023-10-24 11:40:54.432 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1668 records.
+2023-10-24 11:40:54.432 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1668 records.
+2023-10-24 11:40:54.599 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-04
+2023-10-24 11:40:54.599 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-04
+2023-10-24 11:40:54.599 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-04
+2023-10-24 11:40:54.599 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-04
+2023-10-24 11:40:54.599 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-04
+2023-10-24 11:40:54.599 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-04
+2023-10-24 11:40:54.599 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-04
+2023-10-24 11:41:10.279 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1861 records.
+2023-10-24 11:41:10.279 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1861 records.
+2023-10-24 11:41:10.279 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1861 records.
+2023-10-24 11:41:10.279 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1861 records.
+2023-10-24 11:41:10.279 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1861 records.
+2023-10-24 11:41:10.279 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1861 records.
+2023-10-24 11:41:10.279 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1861 records.
+2023-10-24 11:41:10.457 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-05
+2023-10-24 11:41:10.457 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-05
+2023-10-24 11:41:10.457 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-05
+2023-10-24 11:41:10.457 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-05
+2023-10-24 11:41:10.457 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-05
+2023-10-24 11:41:10.457 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-05
+2023-10-24 11:41:10.457 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-05
+2023-10-24 11:41:27.227 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:41:27.227 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:41:27.227 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:41:27.227 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:41:27.227 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:41:27.227 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:41:27.227 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1961 records.
+2023-10-24 11:41:27.390 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-06
+2023-10-24 11:41:27.390 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-06
+2023-10-24 11:41:27.390 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-06
+2023-10-24 11:41:27.390 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-06
+2023-10-24 11:41:27.390 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-06
+2023-10-24 11:41:27.390 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-06
+2023-10-24 11:41:27.390 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-06
+2023-10-24 11:41:42.841 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1825 records.
+2023-10-24 11:41:42.841 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1825 records.
+2023-10-24 11:41:42.841 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1825 records.
+2023-10-24 11:41:42.841 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1825 records.
+2023-10-24 11:41:42.841 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1825 records.
+2023-10-24 11:41:42.841 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1825 records.
+2023-10-24 11:41:42.841 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1825 records.
+2023-10-24 11:41:43.004 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-07
+2023-10-24 11:41:43.004 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-07
+2023-10-24 11:41:43.004 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-07
+2023-10-24 11:41:43.004 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-07
+2023-10-24 11:41:43.004 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-07
+2023-10-24 11:41:43.004 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-07
+2023-10-24 11:41:43.004 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-07
+2023-10-24 11:41:58.227 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1804 records.
+2023-10-24 11:41:58.227 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1804 records.
+2023-10-24 11:41:58.227 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1804 records.
+2023-10-24 11:41:58.227 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1804 records.
+2023-10-24 11:41:58.227 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1804 records.
+2023-10-24 11:41:58.227 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1804 records.
+2023-10-24 11:41:58.227 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1804 records.
+2023-10-24 11:41:58.393 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-08
+2023-10-24 11:41:58.393 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-08
+2023-10-24 11:41:58.393 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-08
+2023-10-24 11:41:58.393 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-08
+2023-10-24 11:41:58.393 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-08
+2023-10-24 11:41:58.393 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-08
+2023-10-24 11:41:58.393 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-08
+2023-10-24 11:42:13.499 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:42:13.499 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:42:13.499 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:42:13.499 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:42:13.499 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:42:13.499 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:42:13.499 | INFO     | Download:downloadSeason:98 - Collected 1660 out of 1662 records.
+2023-10-24 11:42:13.689 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-09
+2023-10-24 11:42:13.689 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-09
+2023-10-24 11:42:13.689 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-09
+2023-10-24 11:42:13.689 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-09
+2023-10-24 11:42:13.689 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-09
+2023-10-24 11:42:13.689 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-09
+2023-10-24 11:42:13.689 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-09
+2023-10-24 11:42:26.982 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1549 records.
+2023-10-24 11:42:26.982 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1549 records.
+2023-10-24 11:42:26.982 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1549 records.
+2023-10-24 11:42:26.982 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1549 records.
+2023-10-24 11:42:26.982 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1549 records.
+2023-10-24 11:42:26.982 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1549 records.
+2023-10-24 11:42:26.982 | INFO     | Download:downloadSeason:98 - Collected 1540 out of 1549 records.
+2023-10-24 11:42:27.166 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-10
+2023-10-24 11:42:27.166 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-10
+2023-10-24 11:42:27.166 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-10
+2023-10-24 11:42:27.166 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-10
+2023-10-24 11:42:27.166 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-10
+2023-10-24 11:42:27.166 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-10
+2023-10-24 11:42:27.166 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-10
+2023-10-24 11:42:44.113 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1993 records.
+2023-10-24 11:42:44.113 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1993 records.
+2023-10-24 11:42:44.113 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1993 records.
+2023-10-24 11:42:44.113 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1993 records.
+2023-10-24 11:42:44.113 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1993 records.
+2023-10-24 11:42:44.113 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1993 records.
+2023-10-24 11:42:44.113 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1993 records.
+2023-10-24 11:42:44.282 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-11
+2023-10-24 11:42:44.282 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-11
+2023-10-24 11:42:44.282 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-11
+2023-10-24 11:42:44.282 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-11
+2023-10-24 11:42:44.282 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-11
+2023-10-24 11:42:44.282 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-11
+2023-10-24 11:42:44.282 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-11
+2023-10-24 11:43:02.257 | INFO     | Download:downloadSeason:98 - Collected 2080 out of 2096 records.
+2023-10-24 11:43:02.257 | INFO     | Download:downloadSeason:98 - Collected 2080 out of 2096 records.
+2023-10-24 11:43:02.257 | INFO     | Download:downloadSeason:98 - Collected 2080 out of 2096 records.
+2023-10-24 11:43:02.257 | INFO     | Download:downloadSeason:98 - Collected 2080 out of 2096 records.
+2023-10-24 11:43:02.257 | INFO     | Download:downloadSeason:98 - Collected 2080 out of 2096 records.
+2023-10-24 11:43:02.257 | INFO     | Download:downloadSeason:98 - Collected 2080 out of 2096 records.
+2023-10-24 11:43:02.257 | INFO     | Download:downloadSeason:98 - Collected 2080 out of 2096 records.
+2023-10-24 11:43:02.454 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-12
+2023-10-24 11:43:02.454 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-12
+2023-10-24 11:43:02.454 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-12
+2023-10-24 11:43:02.454 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-12
+2023-10-24 11:43:02.454 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-12
+2023-10-24 11:43:02.454 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-12
+2023-10-24 11:43:02.454 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2019-12
+2023-10-24 11:43:19.881 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2001 records.
+2023-10-24 11:43:19.881 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2001 records.
+2023-10-24 11:43:19.881 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2001 records.
+2023-10-24 11:43:19.881 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2001 records.
+2023-10-24 11:43:19.881 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2001 records.
+2023-10-24 11:43:19.881 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2001 records.
+2023-10-24 11:43:19.881 | INFO     | Download:downloadSeason:98 - Collected 2000 out of 2001 records.
+2023-10-24 11:43:20.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-01
+2023-10-24 11:43:20.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-01
+2023-10-24 11:43:20.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-01
+2023-10-24 11:43:20.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-01
+2023-10-24 11:43:20.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-01
+2023-10-24 11:43:20.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-01
+2023-10-24 11:43:20.052 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-01
+2023-10-24 11:43:38.362 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1908 records.
+2023-10-24 11:43:38.362 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1908 records.
+2023-10-24 11:43:38.362 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1908 records.
+2023-10-24 11:43:38.362 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1908 records.
+2023-10-24 11:43:38.362 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1908 records.
+2023-10-24 11:43:38.362 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1908 records.
+2023-10-24 11:43:38.362 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1908 records.
+2023-10-24 11:43:38.555 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-02
+2023-10-24 11:43:38.555 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-02
+2023-10-24 11:43:38.555 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-02
+2023-10-24 11:43:38.555 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-02
+2023-10-24 11:43:38.555 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-02
+2023-10-24 11:43:38.555 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-02
+2023-10-24 11:43:38.555 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-02
+2023-10-24 11:43:55.368 | INFO     | Download:downloadSeason:98 - Collected 1680 out of 1685 records.
+2023-10-24 11:43:55.368 | INFO     | Download:downloadSeason:98 - Collected 1680 out of 1685 records.
+2023-10-24 11:43:55.368 | INFO     | Download:downloadSeason:98 - Collected 1680 out of 1685 records.
+2023-10-24 11:43:55.368 | INFO     | Download:downloadSeason:98 - Collected 1680 out of 1685 records.
+2023-10-24 11:43:55.368 | INFO     | Download:downloadSeason:98 - Collected 1680 out of 1685 records.
+2023-10-24 11:43:55.368 | INFO     | Download:downloadSeason:98 - Collected 1680 out of 1685 records.
+2023-10-24 11:43:55.368 | INFO     | Download:downloadSeason:98 - Collected 1680 out of 1685 records.
+2023-10-24 11:43:55.569 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-03
+2023-10-24 11:43:55.569 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-03
+2023-10-24 11:43:55.569 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-03
+2023-10-24 11:43:55.569 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-03
+2023-10-24 11:43:55.569 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-03
+2023-10-24 11:43:55.569 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-03
+2023-10-24 11:43:55.569 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-03
+2023-10-24 11:44:15.417 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1863 records.
+2023-10-24 11:44:15.417 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1863 records.
+2023-10-24 11:44:15.417 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1863 records.
+2023-10-24 11:44:15.417 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1863 records.
+2023-10-24 11:44:15.417 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1863 records.
+2023-10-24 11:44:15.417 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1863 records.
+2023-10-24 11:44:15.417 | INFO     | Download:downloadSeason:98 - Collected 1860 out of 1863 records.
+2023-10-24 11:44:15.623 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-04
+2023-10-24 11:44:15.623 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-04
+2023-10-24 11:44:15.623 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-04
+2023-10-24 11:44:15.623 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-04
+2023-10-24 11:44:15.623 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-04
+2023-10-24 11:44:15.623 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-04
+2023-10-24 11:44:15.623 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-04
+2023-10-24 11:44:34.315 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1806 records.
+2023-10-24 11:44:34.315 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1806 records.
+2023-10-24 11:44:34.315 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1806 records.
+2023-10-24 11:44:34.315 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1806 records.
+2023-10-24 11:44:34.315 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1806 records.
+2023-10-24 11:44:34.315 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1806 records.
+2023-10-24 11:44:34.315 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1806 records.
+2023-10-24 11:44:34.503 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-05
+2023-10-24 11:44:34.503 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-05
+2023-10-24 11:44:34.503 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-05
+2023-10-24 11:44:34.503 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-05
+2023-10-24 11:44:34.503 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-05
+2023-10-24 11:44:34.503 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-05
+2023-10-24 11:44:34.503 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-05
+2023-10-24 11:44:50.350 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1745 records.
+2023-10-24 11:44:50.350 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1745 records.
+2023-10-24 11:44:50.350 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1745 records.
+2023-10-24 11:44:50.350 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1745 records.
+2023-10-24 11:44:50.350 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1745 records.
+2023-10-24 11:44:50.350 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1745 records.
+2023-10-24 11:44:50.350 | INFO     | Download:downloadSeason:98 - Collected 1740 out of 1745 records.
+2023-10-24 11:44:50.523 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-06
+2023-10-24 11:44:50.523 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-06
+2023-10-24 11:44:50.523 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-06
+2023-10-24 11:44:50.523 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-06
+2023-10-24 11:44:50.523 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-06
+2023-10-24 11:44:50.523 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-06
+2023-10-24 11:44:50.523 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-06
+2023-10-24 11:45:07.773 | INFO     | Download:downloadSeason:98 - Collected 1840 out of 1840 records.
+2023-10-24 11:45:07.773 | INFO     | Download:downloadSeason:98 - Collected 1840 out of 1840 records.
+2023-10-24 11:45:07.773 | INFO     | Download:downloadSeason:98 - Collected 1840 out of 1840 records.
+2023-10-24 11:45:07.773 | INFO     | Download:downloadSeason:98 - Collected 1840 out of 1840 records.
+2023-10-24 11:45:07.773 | INFO     | Download:downloadSeason:98 - Collected 1840 out of 1840 records.
+2023-10-24 11:45:07.773 | INFO     | Download:downloadSeason:98 - Collected 1840 out of 1840 records.
+2023-10-24 11:45:07.773 | INFO     | Download:downloadSeason:98 - Collected 1840 out of 1840 records.
+2023-10-24 11:45:07.973 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-07
+2023-10-24 11:45:07.973 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-07
+2023-10-24 11:45:07.973 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-07
+2023-10-24 11:45:07.973 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-07
+2023-10-24 11:45:07.973 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-07
+2023-10-24 11:45:07.973 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-07
+2023-10-24 11:45:07.973 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-07
+2023-10-24 11:45:26.727 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1902 records.
+2023-10-24 11:45:26.727 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1902 records.
+2023-10-24 11:45:26.727 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1902 records.
+2023-10-24 11:45:26.727 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1902 records.
+2023-10-24 11:45:26.727 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1902 records.
+2023-10-24 11:45:26.727 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1902 records.
+2023-10-24 11:45:26.727 | INFO     | Download:downloadSeason:98 - Collected 1900 out of 1902 records.
+2023-10-24 11:45:26.911 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-08
+2023-10-24 11:45:26.911 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-08
+2023-10-24 11:45:26.911 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-08
+2023-10-24 11:45:26.911 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-08
+2023-10-24 11:45:26.911 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-08
+2023-10-24 11:45:26.911 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-08
+2023-10-24 11:45:26.911 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-08
+2023-10-24 11:45:42.805 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1723 records.
+2023-10-24 11:45:42.805 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1723 records.
+2023-10-24 11:45:42.805 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1723 records.
+2023-10-24 11:45:42.805 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1723 records.
+2023-10-24 11:45:42.805 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1723 records.
+2023-10-24 11:45:42.805 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1723 records.
+2023-10-24 11:45:42.805 | INFO     | Download:downloadSeason:98 - Collected 1720 out of 1723 records.
+2023-10-24 11:45:42.999 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-09
+2023-10-24 11:45:42.999 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-09
+2023-10-24 11:45:42.999 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-09
+2023-10-24 11:45:42.999 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-09
+2023-10-24 11:45:42.999 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-09
+2023-10-24 11:45:42.999 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-09
+2023-10-24 11:45:42.999 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-09
+2023-10-24 11:45:59.922 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1803 records.
+2023-10-24 11:45:59.922 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1803 records.
+2023-10-24 11:45:59.922 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1803 records.
+2023-10-24 11:45:59.922 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1803 records.
+2023-10-24 11:45:59.922 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1803 records.
+2023-10-24 11:45:59.922 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1803 records.
+2023-10-24 11:45:59.922 | INFO     | Download:downloadSeason:98 - Collected 1800 out of 1803 records.
+2023-10-24 11:46:00.122 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-10
+2023-10-24 11:46:00.122 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-10
+2023-10-24 11:46:00.122 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-10
+2023-10-24 11:46:00.122 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-10
+2023-10-24 11:46:00.122 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-10
+2023-10-24 11:46:00.122 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-10
+2023-10-24 11:46:00.122 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-10
+2023-10-24 11:46:18.160 | INFO     | Download:downloadSeason:98 - Collected 1920 out of 1931 records.
+2023-10-24 11:46:18.160 | INFO     | Download:downloadSeason:98 - Collected 1920 out of 1931 records.
+2023-10-24 11:46:18.160 | INFO     | Download:downloadSeason:98 - Collected 1920 out of 1931 records.
+2023-10-24 11:46:18.160 | INFO     | Download:downloadSeason:98 - Collected 1920 out of 1931 records.
+2023-10-24 11:46:18.160 | INFO     | Download:downloadSeason:98 - Collected 1920 out of 1931 records.
+2023-10-24 11:46:18.160 | INFO     | Download:downloadSeason:98 - Collected 1920 out of 1931 records.
+2023-10-24 11:46:18.160 | INFO     | Download:downloadSeason:98 - Collected 1920 out of 1931 records.
+2023-10-24 11:46:19.380 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-11
+2023-10-24 11:46:19.380 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-11
+2023-10-24 11:46:19.380 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-11
+2023-10-24 11:46:19.380 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-11
+2023-10-24 11:46:19.380 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-11
+2023-10-24 11:46:19.380 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-11
+2023-10-24 11:46:19.380 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-11
+2023-10-24 11:46:37.228 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1983 records.
+2023-10-24 11:46:37.228 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1983 records.
+2023-10-24 11:46:37.228 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1983 records.
+2023-10-24 11:46:37.228 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1983 records.
+2023-10-24 11:46:37.228 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1983 records.
+2023-10-24 11:46:37.228 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1983 records.
+2023-10-24 11:46:37.228 | INFO     | Download:downloadSeason:98 - Collected 1980 out of 1983 records.
+2023-10-24 11:46:37.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-12
+2023-10-24 11:46:37.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-12
+2023-10-24 11:46:37.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-12
+2023-10-24 11:46:37.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-12
+2023-10-24 11:46:37.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-12
+2023-10-24 11:46:37.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-12
+2023-10-24 11:46:37.396 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2020-12
+2023-10-24 11:46:55.750 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2064 records.
+2023-10-24 11:46:55.750 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2064 records.
+2023-10-24 11:46:55.750 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2064 records.
+2023-10-24 11:46:55.750 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2064 records.
+2023-10-24 11:46:55.750 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2064 records.
+2023-10-24 11:46:55.750 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2064 records.
+2023-10-24 11:46:55.750 | INFO     | Download:downloadSeason:98 - Collected 2060 out of 2064 records.
+2023-10-24 11:46:55.917 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-01
+2023-10-24 11:46:55.917 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-01
+2023-10-24 11:46:55.917 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-01
+2023-10-24 11:46:55.917 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-01
+2023-10-24 11:46:55.917 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-01
+2023-10-24 11:46:55.917 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-01
+2023-10-24 11:46:55.917 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-01
+2023-10-24 11:47:13.307 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1962 records.
+2023-10-24 11:47:13.307 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1962 records.
+2023-10-24 11:47:13.307 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1962 records.
+2023-10-24 11:47:13.307 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1962 records.
+2023-10-24 11:47:13.307 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1962 records.
+2023-10-24 11:47:13.307 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1962 records.
+2023-10-24 11:47:13.307 | INFO     | Download:downloadSeason:98 - Collected 1960 out of 1962 records.
+2023-10-24 11:47:13.494 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-02
+2023-10-24 11:47:13.494 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-02
+2023-10-24 11:47:13.494 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-02
+2023-10-24 11:47:13.494 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-02
+2023-10-24 11:47:13.494 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-02
+2023-10-24 11:47:13.494 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-02
+2023-10-24 11:47:13.494 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-02
+2023-10-24 11:47:30.259 | INFO     | Download:downloadSeason:98 - Collected 1880 out of 1880 records.
+2023-10-24 11:47:30.259 | INFO     | Download:downloadSeason:98 - Collected 1880 out of 1880 records.
+2023-10-24 11:47:30.259 | INFO     | Download:downloadSeason:98 - Collected 1880 out of 1880 records.
+2023-10-24 11:47:30.259 | INFO     | Download:downloadSeason:98 - Collected 1880 out of 1880 records.
+2023-10-24 11:47:30.259 | INFO     | Download:downloadSeason:98 - Collected 1880 out of 1880 records.
+2023-10-24 11:47:30.259 | INFO     | Download:downloadSeason:98 - Collected 1880 out of 1880 records.
+2023-10-24 11:47:30.259 | INFO     | Download:downloadSeason:98 - Collected 1880 out of 1880 records.
+2023-10-24 11:47:30.432 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-03
+2023-10-24 11:47:30.432 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-03
+2023-10-24 11:47:30.432 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-03
+2023-10-24 11:47:30.432 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-03
+2023-10-24 11:47:30.432 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-03
+2023-10-24 11:47:30.432 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-03
+2023-10-24 11:47:30.432 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-03
+2023-10-24 11:47:46.585 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1839 records.
+2023-10-24 11:47:46.585 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1839 records.
+2023-10-24 11:47:46.585 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1839 records.
+2023-10-24 11:47:46.585 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1839 records.
+2023-10-24 11:47:46.585 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1839 records.
+2023-10-24 11:47:46.585 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1839 records.
+2023-10-24 11:47:46.585 | INFO     | Download:downloadSeason:98 - Collected 1820 out of 1839 records.
+2023-10-24 11:47:46.778 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-04
+2023-10-24 11:47:46.778 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-04
+2023-10-24 11:47:46.778 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-04
+2023-10-24 11:47:46.778 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-04
+2023-10-24 11:47:46.778 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-04
+2023-10-24 11:47:46.778 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-04
+2023-10-24 11:47:46.778 | INFO     | Download:downloadSeason:88 - Starting to collect season: 2021-04
+2023-10-24 11:53:27.283 | WARNING  | __main__:<module>:17 - Bad thing happened
+2023-10-24 11:53:27.283 | WARNING  | __main__:<module>:17 - Bad thing happened
+2023-10-24 11:53:27.283 | WARNING  | __main__:<module>:17 - Bad thing happened
+2023-10-24 11:53:27.283 | WARNING  | __main__:<module>:17 - Bad thing happened
+2023-10-24 11:53:27.283 | WARNING  | __main__:<module>:17 - Bad thing happened
+2023-10-24 11:53:27.283 | WARNING  | __main__:<module>:17 - Bad thing happened
+2023-10-24 11:53:27.283 | WARNING  | __main__:<module>:17 - Bad thing happened
+2023-10-24 11:53:27.283 | WARNING  | __main__:<module>:17 - Bad thing happened
+2023-10-24 11:55:49.228 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:55:49.228 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:55:49.228 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:55:49.228 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:55:49.228 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:55:49.228 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:55:49.228 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:55:49.228 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:55:49.228 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:55:49.229 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:55:49.229 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:55:49.229 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:55:49.229 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:55:49.229 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:55:49.229 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:55:49.229 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:55:49.229 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:55:49.229 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:55:49.477 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.477 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.477 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.477 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.477 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.477 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.477 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.477 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.477 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.652 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:49.652 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:49.652 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:49.652 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:49.652 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:49.652 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:49.652 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:49.652 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:49.652 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:49.949 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.949 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.949 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.949 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.949 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.949 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.949 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.949 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:49.949 | WARNING  | Download:downloadSeason:82 - No records for season: 2
+2023-10-24 11:55:50.179 | WARNING  | Download:downloadSeason:82 - No records for season: 1
+2023-10-24 11:55:50.179 | WARNING  | Download:downloadSeason:82 - No records for season: 1
+2023-10-24 11:55:50.179 | WARNING  | Download:downloadSeason:82 - No records for season: 1
+2023-10-24 11:55:50.179 | WARNING  | Download:downloadSeason:82 - No records for season: 1
+2023-10-24 11:55:50.179 | WARNING  | Download:downloadSeason:82 - No records for season: 1
+2023-10-24 11:55:50.179 | WARNING  | Download:downloadSeason:82 - No records for season: 1
+2023-10-24 11:55:50.179 | WARNING  | Download:downloadSeason:82 - No records for season: 1
+2023-10-24 11:55:50.179 | WARNING  | Download:downloadSeason:82 - No records for season: 1
+2023-10-24 11:55:50.179 | WARNING  | Download:downloadSeason:82 - No records for season: 1
+2023-10-24 11:55:50.361 | WARNING  | Download:downloadSeason:82 - No records for season: -
+2023-10-24 11:55:50.361 | WARNING  | Download:downloadSeason:82 - No records for season: -
+2023-10-24 11:55:50.361 | WARNING  | Download:downloadSeason:82 - No records for season: -
+2023-10-24 11:55:50.361 | WARNING  | Download:downloadSeason:82 - No records for season: -
+2023-10-24 11:55:50.361 | WARNING  | Download:downloadSeason:82 - No records for season: -
+2023-10-24 11:55:50.361 | WARNING  | Download:downloadSeason:82 - No records for season: -
+2023-10-24 11:55:50.361 | WARNING  | Download:downloadSeason:82 - No records for season: -
+2023-10-24 11:55:50.361 | WARNING  | Download:downloadSeason:82 - No records for season: -
+2023-10-24 11:55:50.361 | WARNING  | Download:downloadSeason:82 - No records for season: -
+2023-10-24 11:55:50.527 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:50.527 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:50.527 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:50.527 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:50.527 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:50.527 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:50.527 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:50.527 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:50.527 | WARNING  | Download:downloadSeason:82 - No records for season: 0
+2023-10-24 11:55:50.705 | WARNING  | Download:downloadSeason:82 - No records for season: 4
+2023-10-24 11:55:50.705 | WARNING  | Download:downloadSeason:82 - No records for season: 4
+2023-10-24 11:55:50.705 | WARNING  | Download:downloadSeason:82 - No records for season: 4
+2023-10-24 11:55:50.705 | WARNING  | Download:downloadSeason:82 - No records for season: 4
+2023-10-24 11:55:50.705 | WARNING  | Download:downloadSeason:82 - No records for season: 4
+2023-10-24 11:55:50.705 | WARNING  | Download:downloadSeason:82 - No records for season: 4
+2023-10-24 11:55:50.705 | WARNING  | Download:downloadSeason:82 - No records for season: 4
+2023-10-24 11:55:50.705 | WARNING  | Download:downloadSeason:82 - No records for season: 4
+2023-10-24 11:55:50.705 | WARNING  | Download:downloadSeason:82 - No records for season: 4
+2023-10-24 11:56:16.856 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:56:16.856 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:56:16.856 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:56:16.856 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:56:16.856 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:56:16.856 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:56:16.856 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:56:16.856 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:56:16.856 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:56:16.856 | WARNING  | __main__:main:21 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:56:16.856 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:56:16.856 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:56:16.856 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:56:16.856 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:56:16.856 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:56:16.856 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:56:16.856 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:56:16.856 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:56:16.856 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:56:16.856 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:56:17.029 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:56:17.029 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:56:17.029 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:56:17.029 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:56:17.029 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:56:17.029 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:56:17.029 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:56:17.029 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:56:17.029 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:56:17.029 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:56:35.430 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:56:35.430 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:56:35.430 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:56:35.430 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:56:35.430 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:56:35.430 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:56:35.430 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:56:35.430 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:56:35.430 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:56:35.430 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:56:35.438 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:56:35.438 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:56:35.438 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:56:35.438 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:56:35.438 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:56:35.438 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:56:35.438 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:56:35.438 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:56:35.438 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:56:35.438 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:58:43.592 | WARNING  | __main__:main:27 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:58:43.592 | WARNING  | __main__:main:27 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:58:43.592 | WARNING  | __main__:main:27 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:58:43.592 | WARNING  | __main__:main:27 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:58:43.592 | WARNING  | __main__:main:27 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:58:43.592 | WARNING  | __main__:main:27 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:58:43.592 | WARNING  | __main__:main:27 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:58:43.592 | WARNING  | __main__:main:27 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:58:43.592 | WARNING  | __main__:main:27 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:58:43.592 | WARNING  | __main__:main:27 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:58:43.592 | WARNING  | __main__:main:27 - file C:\Users\Admin\School\data\raw\ScrapedData.csv does not exist
+2023-10-24 11:58:43.593 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:58:43.593 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:58:43.593 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:58:43.593 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:58:43.593 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:58:43.593 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:58:43.593 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:58:43.593 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:58:43.593 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:58:43.593 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:58:43.593 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:58:43.795 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:58:43.795 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:58:43.795 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:58:43.795 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:58:43.795 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:58:43.795 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:58:43.795 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:58:43.795 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:58:43.795 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:58:43.795 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:58:43.795 | INFO     | Download:downloadSeason:91 - Starting to collect season: 2021-04
+2023-10-24 11:59:03.054 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:59:03.054 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:59:03.054 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:59:03.054 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:59:03.054 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:59:03.054 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:59:03.054 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:59:03.054 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:59:03.054 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:59:03.054 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:59:03.054 | INFO     | Download:downloadSeason:101 - Collected 2040 out of 2057 records.
+2023-10-24 11:59:03.063 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:59:03.063 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:59:03.063 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:59:03.063 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:59:03.063 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:59:03.063 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:59:03.063 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:59:03.063 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:59:03.063 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:59:03.063 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:59:03.063 | INFO     | Download:DownloadLeaderboard:121 - Completed download. Downloaded 2040 records.
+2023-10-24 11:59:03.072 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:59:03.072 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:59:03.072 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:59:03.072 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:59:03.072 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:59:03.072 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:59:03.072 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:59:03.072 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:59:03.072 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:59:03.072 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 11:59:03.072 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.790 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:29.793 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.432 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:32.435 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.066 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:06:37.069 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.406 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:07:56.414 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.197 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:09:44.204 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.991 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:10:43.998 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.009 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:19.013 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.272 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.275 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:56.288 | INFO     | Preprocessing:basicFeatureCreation:57 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:12:57.567 | INFO     | Preprocessing:basicFeatureCreation:147 - Completed basic feature engineering
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.494 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:40:50.495 | INFO     | __main__:createPathIfNeeded:19 - Path to data\processed did not exist. 
+ Created path.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.440 | INFO     | __main__:createPathIfNeeded:22 - Path to data\raw existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.442 | INFO     | __main__:createPathIfNeeded:22 - Path to data\processed existed already.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.448 | INFO     | Download:ListSeasons:69 - 105 seasons have to be downloaded.
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:08.459 | INFO     | Preprocessing:basicFeatureCreation:37 - total records in the dataset: 2040, Unique players: 2040
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering
+2023-10-24 12:47:09.711 | INFO     | Preprocessing:basicFeatureCreation:161 - Completed basic feature engineering

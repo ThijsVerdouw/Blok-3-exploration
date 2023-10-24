@@ -9,15 +9,9 @@ import pandas as pd
 import numpy as np
 from loguru import logger
 import Download
-startYear = 2015
 
-
-df = pd.read_csv('ScrapedData.csv')
-# print(df.head(21))
-seasonList = Download.ListSeasons (startYear)
-# print(seasonList)
-
-def defineStartYear (row):
+def defineStartYear (row, seasonList):
+    # This turns the season string into a season number, which is done to make it an easy to use X axis.
     try:
         return seasonList.index(row.season)
     except Exception as e:
@@ -25,119 +19,120 @@ def defineStartYear (row):
         return -1
 
 
-
-uniquePlayers = df['user'].unique().tolist()
-df['SeasonNumber'] = df.apply(defineStartYear, axis =1)
-logger.info('total records in the dataset: '+ str(len(df._id.unique())) + ', Unique players: ' + str(len(df.user.unique())))
-
-playerDatabase = []
-for player in uniquePlayers:
+def basicFeatureCreation (rawDataPath, settings):
+    # This function downloads the raw dataset and performs various actions with it.
     
+    logger.info('Starting basic feature engineering')
+    df = pd.read_csv(rawDataPath)
     
-    query = f'user =="{player}"'
-    playerActivity = df.query(query)
-    # print(playerActivity.columns)
+    # print(df)
+    # print (settings.originalIDCol)
+    seasonList = Download.ListSeasons (settings.startYear)
+    # print(seasonList)
     
-    # Start of loop variable cleanup:
-    previousSeason = -1 
-    previousScore = -1
-    cumScore = 0 
-    maxScore = 0 
-    playerData = []
-    monthsPlayed = 1
-    loopNr = 1 
-    totalLoops = len(playerActivity)
+    uniquePlayers = df[settings.userIDCol].unique().tolist()
+    df[settings.SeasonNrCol] = df.apply(defineStartYear, seasonList = seasonList, axis =1) # creates a reliable int X axis.
+    logger.info('total records in the dataset: '+ str(len(df[settings.originalIDCol].unique())) + ', Unique players: ' + str(len(df[settings.userIDCol].unique())))
     
-    # This gets changed when the season numbers are not adding up
-    for i in playerActivity.index.tolist() :
-        # print(i, len(playerActivity))
-        # print(playerActivity['SeasonNumber'][i])
-        if previousSeason == -1:
-            returning = False # the first season is always not a returning player
-        elif playerActivity['SeasonNumber'][i] == previousSeason + 1:
-            returning = False # if he kept playing after the previous month
-        else:
-            returning = True # He skipped a month
-        previousSeason = playerActivity['SeasonNumber'][i]
+    playerDatabase = [] # empty list to contain the individual dataframes once they are collected.
+    for player in uniquePlayers:
         
+        ###############################!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#######################################
+        query = f'user =="{player}"' # unpipelined.
+        ###############################!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#######################################
+        playerActivity = df.query(query)
+        # print(playerActivity.columns)
         
-        # The first month the user does not have a previous score, filling it with something useless.
-        if previousScore == -1:
-            previousScore = playerActivity['score'][i]
-       
-        # Cumulative score increases each month by the score
-        cumScore = cumScore + playerActivity['score'][i]
+        # Start of loop variable cleanup:
+        previousSeason = -1 
+        previousScore = -1
+        cumScore = 0 
+        maxScore = 0 
+        playerData = []
+        monthsPlayed = 1
+        loopNr = 1 
+        monthsAFK = 0 
+        totalLoops = len(playerActivity)
         
-        # Max score = the highest score the user has ever achieved until this point
-        maxScore = max(maxScore, playerActivity['score'][i])
-        
-        # Score increase percentage based:
-        scoreChange = (playerActivity['score'][i] / previousScore) -1 
-        
-        # Last month of play?
-        if loopNr == totalLoops:
-            lastMonth = False
-        else:
-            lastMonth = True
-            loopNr = loopNr + 1 
-        
-        # Storing information for the dataframe using NP array:
-        playerData.append( np.array([playerActivity['_id'][i],
-                            playerActivity['season'][i], 
-                            playerActivity['user'][i],
-                            playerActivity['score'][i],
-                            playerActivity['rank'][i],
-                            playerActivity['SeasonNumber'][i],
-                            returning,
-                            previousScore,
-                            cumScore,
-                            maxScore,
-                            scoreChange,
-                            monthsPlayed,
-                            lastMonth
-            ]))
-        
-        # DF version attempt:
-        # data = {
-        #     'season':playerActivity['season'][i], 
-        #     'user':playerActivity['user'][i],
-        #     'score':playerActivity['score'][i],
-        #     'rank':playerActivity['rank'][i],
-        #     'seasonNumber':playerActivity['SeasonNumber'][i],
-        #     'returning':returning,
-        #     'previousScore':previousScore,
-        #     'cumScore':cumScore,
-        #     'maxScore':maxScore,
-        #     'scoreChange':scoreChange,
-        #     'monthsPlayed':monthsPlayed,
+        # This gets changed when the season numbers are not adding up
+        for i in playerActivity.index.tolist() :
+            # print(i, len(playerActivity))
+            # print(playerActivity['SeasonNumber'][i])
+            if previousSeason == -1:
+                returning = False # the first season is always not a returning player
+            elif playerActivity[settings.SeasonNrCol][i] == previousSeason + 1:
+                returning = False # if he kept playing after the previous month
+            else:
+                returning = True # He skipped a month
+            previousSeason = playerActivity[settings.SeasonNrCol][i]
             
-        #     }
-        # df = pd.DataFrame(data)
-        # print(df)
-        
-        
-        
-        # Storing score for next loop
-        previousScore = playerActivity['score'][i]
-        monthsPlayed = monthsPlayed + 1
-    playerDatabase.append(playerData)
-    # break
-
-playerDatabase = np.concatenate(playerDatabase)
-playerDatabase = pd.DataFrame(playerDatabase, columns = ['_id','season','user', 'score', 'rank', 'seasonNumber', 'returning', 'previousScore', 'cumScore', 'maxScore', 'scoreChange', 'monthsPlayed', 'retentionRate'])
-playerDatabase.to_csv('PreProcessedData.csv', index = False)
-
-print('done')
-# def ducktapeStuffTogether (row, columnName):
-#     print(playerDatabase[0][0])
-#     return playerDatabase[playerDatabase.index(row['_id'])]
-
-# df.apply(ducktapeStuffTogether,columnName = 'a', axis = 1)
-
-# df = pd.DataFrame(data = playerDatabase, columns = ['season','user', 'score', 'rank', 'seasonNumber', 'returning', 'previousScore', 'cumScore', 'maxScore', 'scoreChange', 'monthsPlayed'])
-# print(df.columns)
-# df[['season','user', 'score', 'rank', 'seasonNumber', 'returning', 'previousScore', 'cumScore', 'maxScore', 'scoreChange', 'monthsPlayed']]
-# print(df)
-
-
-# print(playerDatabase)
+            
+            # The first month the user does not have a previous score, filling it with something useless.
+            if previousScore == -1:
+                previousScore = playerActivity[settings.scoreCol][i]
+           
+            # Cumulative score increases each month by the score
+            cumScore = cumScore + playerActivity[settings.scoreCol][i]
+            
+            # Max score = the highest score the user has ever achieved until this point
+            maxScore = max(maxScore, playerActivity[settings.scoreCol][i])
+            
+            # This identifies if a player has stopped improving, which helps identify AFK players
+            # Which should help with predicting score growth.
+            if playerActivity[settings.scoreCol][i] < maxScore:
+                monthsAFK = monthsAFK + 1
+            else:
+                monthsAFK = 0 
+            
+            # Score increase percentage based:
+            scoreChange = (playerActivity[settings.scoreCol][i] / previousScore) -1 
+            
+            # Last month of play?
+            if loopNr == totalLoops:
+                lastMonth = False
+            else:
+                lastMonth = True
+                loopNr = loopNr + 1 
+            
+            # Storing information for the dataframe using NP array:
+            playerData.append( np.array([playerActivity[settings.originalIDCol][i],
+                                playerActivity[settings.seasonCol][i], 
+                                playerActivity[settings.userIDCol][i],
+                                playerActivity[settings.scoreCol][i],
+                                playerActivity[settings.rankCol][i],
+                                playerActivity[settings.SeasonNrCol][i],
+                                returning,
+                                previousScore,
+                                cumScore,
+                                maxScore,
+                                scoreChange,
+                                monthsPlayed,
+                                lastMonth,
+                                monthsAFK
+                ]))
+    
+            # Storing score for next loop
+            previousScore = playerActivity['score'][i]
+            monthsPlayed = monthsPlayed + 1
+        playerDatabase.append(playerData)
+        # break (testing purposeses if only want to run one loop.)
+    
+    playerDatabase = np.concatenate(playerDatabase)
+    playerDatabase = pd.DataFrame(playerDatabase, columns = [settings.originalIDCol,
+                                                             settings.seasonCol,
+                                                             settings.userIDCol, 
+                                                             settings.scoreCol, 
+                                                             settings.rankCol, 
+                                                             settings.SeasonNrCol,
+                                                             settings.retrurningPlayerCol, 
+                                                             settings.ScorePreviousMonthCol, 
+                                                             settings.cumScoreCol,
+                                                             settings.maxScoreCol, 
+                                                             settings.ScoreChangePercantageCol,
+                                                             settings.monthsPlayedCountCol, 
+                                                             settings.FinalPlayedMonthCol,
+                                                             settings.MonthsAFKCol])
+    playerDatabase.to_csv((settings.outputdir / settings.preProccessedFilename).absolute(), index = False)
+    
+    logger.info('Completed basic feature engineering')
+    
