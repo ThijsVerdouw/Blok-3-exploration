@@ -1,21 +1,19 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Oct 13 13:30:10 2023
-
-@author: Admin
+Worth persuing? https://seaborn.pydata.org/tutorial/axis_grids.html
 """
 
 import pandas as pd 
 import seaborn as sns
 import numpy as np 
-from scipy import stats
+# from scipy import stats
 import InitialAnalysis
 
 
 # sns.set_theme(style='ticks')
 # scoreColumnName = 'score'
-fileName = 'PreProcessedData.csv'
-df = pd.read_csv(fileName)
+# fileName = 'PreProcessedData.csv'
+# df = pd.read_parquet(fileName)
 
 # print(df[['scoreChange','score', 'previousScore','user']].head(20))
 
@@ -47,7 +45,14 @@ def identifyImpactOfLeaving (df, referenceMonth):
     plt = InitialAnalysis.graphData(graphType = 'HG',  y = 'PlayerType' , data = df)
     
 
-identifyImpactOfLeaving (df, referenceMonth= 3)
+# identifyImpactOfLeaving (df, referenceMonth= 3)
+
+
+
+
+
+
+
 # sns.histplot(x = 'scoreChange', data= filteredData, bins = 3 )
 
 # plt = sns.boxplot(y = 'scoreChange', data = filteredData)

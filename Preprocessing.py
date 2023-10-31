@@ -9,6 +9,8 @@ import pandas as pd
 import numpy as np
 from loguru import logger
 import Download
+import InitialAnalysis
+import ScoreGrowth
 
 def defineStartYear (row, seasonList):
     # This turns the season string into a season number, which is done to make it an easy to use X axis.
@@ -18,12 +20,21 @@ def defineStartYear (row, seasonList):
         logger.warning('Season not found for season: ' + str(row) + '\nError: ' + str(e))
         return -1
 
-
+def perfomInitialAnalysis (df, settings):
+    logger.info('Starting creating complex features')
+    singleMonthDF = InitialAnalysis.singleMonthSelector(df, specificMonth= settings.MonthNrForSkillLevel)
+    skillDatabase = InitialAnalysis.identifySkillLevel(singleMonthDF, settings.scoreCol)     
+    df[settings.skillLevelCol] = df.apply(InitialAnalysis.addSkillToDf,skillDatabase = skillDatabase, axis = 1)
+    df[settings.playerTypeCol] = df.apply(ScoreGrowth.fancyXAxisForComparingReturning, selectedMonth = settings.MonthNrForPlayerType, axis = 1)
+    df[settings.logScoreCol] = np.log10(df[settings.scoreCol])
+    return df
+    
 def basicFeatureCreation (rawDataPath, settings):
     # This function downloads the raw dataset and performs various actions with it.
     
-    logger.info('Starting basic feature engineering')
-    df = pd.read_csv(rawDataPath)
+    logger.info('Starting creating basic features')
+    df = pd.read_parquet(rawDataPath)
+    logger.info('Opened dataset, dataset looks like this:\n' + str(df.describe()))
     
     # print(df)
     # print (settings.originalIDCol)
@@ -53,17 +64,18 @@ def basicFeatureCreation (rawDataPath, settings):
         loopNr = 1 
         monthsAFK = 0 
         totalLoops = len(playerActivity)
+        currentMonth = seasonList[len(seasonList)-1] # The currently live season 
         
         # This gets changed when the season numbers are not adding up
         for i in playerActivity.index.tolist() :
             # print(i, len(playerActivity))
             # print(playerActivity['SeasonNumber'][i])
             if previousSeason == -1:
-                returning = False # the first season is always not a returning player
+                returning = 0 # the first season is always not a returning player
             elif playerActivity[settings.SeasonNrCol][i] == previousSeason + 1:
-                returning = False # if he kept playing after the previous month
+                returning = 0 # if he kept playing after the previous month
             else:
-                returning = True # He skipped a month
+                returning = 1 # He skipped a month
             previousSeason = playerActivity[settings.SeasonNrCol][i]
             
             
@@ -87,11 +99,14 @@ def basicFeatureCreation (rawDataPath, settings):
             # Score increase percentage based:
             scoreChange = (playerActivity[settings.scoreCol][i] / previousScore) -1 
             
+            
+            if currentMonth == settings.seasonCol: 
+                lastMonth = 1 # 1= He is still playing. 
             # Last month of play?
-            if loopNr == totalLoops:
-                lastMonth = False
+            elif loopNr == totalLoops:
+                lastMonth = 0 # 0= He is no longer playing
             else:
-                lastMonth = True
+                lastMonth = 1
                 loopNr = loopNr + 1 
             
             # Storing information for the dataframe using NP array:
@@ -117,6 +132,7 @@ def basicFeatureCreation (rawDataPath, settings):
         playerDatabase.append(playerData)
         # break (testing purposeses if only want to run one loop.)
     
+    
     playerDatabase = np.concatenate(playerDatabase)
     playerDatabase = pd.DataFrame(playerDatabase, columns = [settings.originalIDCol,
                                                              settings.seasonCol,
@@ -132,7 +148,16 @@ def basicFeatureCreation (rawDataPath, settings):
                                                              settings.monthsPlayedCountCol, 
                                                              settings.FinalPlayedMonthCol,
                                                              settings.MonthsAFKCol])
-    playerDatabase.to_csv((settings.outputdir / settings.preProccessedFilename).absolute(), index = False)
+    print(playerDatabase[settings.FinalPlayedMonthCol].unique())
+    playerDatabase = playerDatabase.astype(dtype = settings.dataTypesPreprocessedData)
+    logger.info('Completed creating basic features')
+    playerDatabase = perfomInitialAnalysis(playerDatabase, settings)
     
+    playerDatabase.to_parquet((settings.outputdir / settings.preProccessedFilename).absolute(), index = False)
     logger.info('Completed basic feature engineering')
+    
+    logger.info('Table contains the following columns:\n' + str(playerDatabase.dtypes))
+    # logger.info()
+    
+    
     

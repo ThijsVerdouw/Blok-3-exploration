@@ -17,8 +17,9 @@ class Settings(BaseModel):
     outputdir: Path = Path("data/processed")
     logdir: Path = basedir / "log"
     logFile: str = 'logfile.log'
-    scrapedFileName: str = 'ScrapedData.csv'
-    preProccessedFilename: str = 'PreProccessedData.csv'
+    scrapedFileName: str = 'ScrapedData.parquet'
+    preProccessedFilename: str = 'PreProccessedData.parquet'
+    analysedFile : str = 'ProcessedData.parquet'
     
     # API & values used in the download:
     countRecordsLink: str = 'https://screeps.com/api/leaderboard/list?limit=10&mode=world&offset=NaN&season='
@@ -32,6 +33,10 @@ class Settings(BaseModel):
     scoreCol: str = 'score'
     rankCol: str = 'rank'
     totalRecordsCol: str = 'count'
+    
+    # Raw data inputs:
+    MonthNrForSkillLevel: int = 2
+    MonthNrForPlayerType: int = 3
 
     # Engineered features column names:
     SeasonNrCol: str = 'SeasonNumber'
@@ -44,10 +49,44 @@ class Settings(BaseModel):
     FinalPlayedMonthCol: str ='retentionRate'
     MonthsAFKCol: str ='monthsAFK'
     playerTypeCol: str = 'PlayerType'
-    logScoreCol = str = 'logScore'       
-    skillLevelCol = str = 'skillLevel'
+    logScoreCol:  float = 'logScore'       
+    skillLevelCol: int = 'skillLevel'
+    threeMonthsAFKCol: str = 'threeMonthsAFK'
+    SixMonthsAFKCol: str = 'SexMonthsAFK'
+    TwelveMonthsAFKCol: str = 'TwelveMonthsAFK'
+    MassiveLossCol: str = 'MassiveLoss'
+    
+    # Data types for the dataframes:
+    dataTypesRawData: dict = { 
+        # Column names in raw data download:
+        originalIDCol: str,
+        seasonCol: str,
+        userIDCol: str,
+        scoreCol: float,
+        rankCol: int
+        }
+        
+    dataTypesPreprocessedData: dict = {        
+        # Column names in raw data download:
+        originalIDCol: str,
+        seasonCol: str,
+        userIDCol: str,
+        scoreCol: float,
+        rankCol: int,
+
+        # Engineered features column names:
+        SeasonNrCol: int,
+        retrurningPlayerCol: int,
+        ScorePreviousMonthCol: float,
+        cumScoreCol: float,
+        maxScoreCol: float,
+        ScoreChangePercantageCol: float,
+        monthsPlayedCountCol: float,
+        FinalPlayedMonthCol: int,
+        MonthsAFKCol: int
+                       }
     
         
 settings = Settings()  # This object should be imported in other modules.
-logger.add(settings.logdir / settings.logFile)
-# print(settings.basedir)
+
+# print(settings.dataTypes[settings.originalIDCol])

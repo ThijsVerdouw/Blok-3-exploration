@@ -8,19 +8,19 @@ import pandas as pd
 import seaborn as sns
 import numpy as np
 from loguru import logger
-import time
+import Config 
+settings = Config.Settings()
 sns.set_theme(style='ticks')
-scoreColumnName = 'score'
-fileName = 'PreProcessedData.csv'
 
-def firstlook (fileName, scoreColumnName):
+def firstlook (fileName):
     # This function opens the preprocessed file and plots it in a series of boxplots.
-    df = pd.read_csv(fileName)
+    df = pd.read_parquet(fileName)
     logger.info('Preprocessed file contains the following columns: ' +str(df.columns))
-    # firstLook = sns.boxplot(x = 'monthsPlayed', y = 'score', data = df)
-    df['logScore'] = np.log10(df[scoreColumnName])
-    logLook = sns.boxplot(x = 'monthsPlayed', y = 'logScore', data = df)
     
+    # firstLook = sns.boxplot(x = 'monthsPlayed', y = 'score', data = df)
+    # scoreColumnName = 'score'
+    df[settings.logScoreCol] = np.log10(df[settings.scoreCol])
+    logLook = sns.boxplot(x = 'monthsPlayed', y = 'logScore', data = df)
     return df 
 
 # print(df.head(5))
@@ -51,6 +51,7 @@ def addSkillToDf (row, skillDatabase):
 def identifySkillLevel (df, scoreColumnName):
     # This uses a single month to calculate a boxplot of the distribution of the score.
     # These are compiled into a dictionary, which is later used to assign the skill level to indiviudal players.
+    # Not using settings.scoreCol because I want to be able to use this function flexibly for different types of scores.
     Q1 = df[scoreColumnName].quantile(0.25)
     Q3 = df[scoreColumnName].quantile(0.75)
     IQR = Q3 - Q1
@@ -94,18 +95,16 @@ def singeMonthView (graphType, df):
     graphData(graphType, x=x, y=y, data= df)   
     
     
-def InitialAssesment ():
-    df = firstlook(fileName, scoreColumnName)
-    
-    singleMonthDF = singleMonthSelector(df, specificMonth=2)
+def GraphAssesment (settings, specificMonth = 2):
+    df = firstlook((settings.outputdir / settings.preProccessedFilename).absolute())
+    singleMonthDF = singleMonthSelector(df, specificMonth=specificMonth)
     singeMonthView (graphType= 'HG', df= singleMonthDF)
-    skillDatabase = identifySkillLevel(singleMonthDF, scoreColumnName)     
-    df['skillLevel'] = df.apply(addSkillToDf,skillDatabase = skillDatabase, axis = 1)
     sns.displot(x = 'skillLevel', data= df[['user','skillLevel']].drop_duplicates())
 
-# main()
-
-
+def getFileForStreamlit(fileName):
+    # This function opens the preprocessed file and plots it in a series of boxplots.
+    df = pd.read_parquet(fileName)
+    return df 
 
     
 

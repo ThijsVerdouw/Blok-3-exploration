@@ -18,19 +18,30 @@ def GetJason (url):
     # It returns the data as a dataframe
     # This dataframe is then appended to a list outside of the function
     # To be merged together into one dataframe at the end, and stored for future use.
-    try:
-        r = requests.get(url)
-        j = r.json()
+    
+    collectedData = False
+    tries = 0 
+    while collectedData == False and tries <10:
+        try:
+            r = requests.get(url)
+            j = r.json()
+            collectedData = True 
+            df = pd.DataFrame.from_dict(j['list'])
+            if tries > 0:
+                logger.info('Fixed issue for this ULR by retrying: '+ str(url))
+        except Exception as e:
+            logger.warning('Failed to collect total number of records for this ULR: \n' + str(url))
+            logger.warning('Reason:' + str(e))
+            tries = tries + 1 
     
         ## Contains: (['ok', 'list', 'count', 'users'])
         # print(j.keys())
         # for i in j.keys():
         #     print(j[i])
     
-        df = pd.DataFrame.from_dict(j['list'])
-    except:
-        # This means it has failed to download anything, or something went horribly wrong in the download
-        logger.warning('Bad thing happened when attempting to download from this one: \n' + str(url))
+       
+    if tries >9:
+        # Download has failed:
         df = pd.DataFrame() # ensures we return an empty dataframe to prevent crashes.
     # print (df)
     return df
@@ -75,8 +86,22 @@ def downloadSeason (seasonNumber):
     # and then it downloads all of those records in batches of 20.
     # I am intentionally not downloading the last couple of records, those are bad data.
     url = settings.countRecordsLink + seasonNumber 
-    r = requests.get(url)
-    j = r.json()
+    
+    # This has to succeed, it gets the total number of records for a month. if it fails the entire thing dies.
+    collectedData = False
+    tries = 0 
+    while collectedData == False and tries <10:
+        try:
+            r = requests.get(url)
+            j = r.json()
+            collectedData = True 
+            if tries > 0:
+                logger.info('Fixed issue for this ULR by retrying: '+ str(url))
+        except Exception as e:
+            logger.warning('Failed to collect total number of records for this ULR: \n' + str(url))
+            logger.warning('Reason:' + str(e))
+            tries = tries + 1 
+        
     totalRecords = j[settings.totalRecordsCol]
     if totalRecords <=0:
         logger.warning('No records for season: ' + str(seasonNumber))
@@ -109,7 +134,7 @@ def DownloadLeaderboard(startYear):
     # repeat until all seasons are downloaded.
     
     seasons = ListSeasons(startYear)
-    seasons = ['2021-04'] # debug
+    # seasons = ['2021-09'] # debug
     downloadedSeasons = []
     for season in seasons:
         downloadedData = downloadSeason(season)
@@ -119,7 +144,8 @@ def DownloadLeaderboard(startYear):
             downloadedSeasons.append(downloadedData)
     downloadedSeasons = pd.concat(downloadedSeasons)
     logger.info('Completed download. Downloaded ' + str(len(downloadedSeasons)) + ' records.')
-    downloadedSeasons.to_csv((settings.datadir / settings.scrapedFileName).absolute(), index=False)
+    downloadedSeasons = downloadedSeasons.astype(dtype = settings.dataTypesRawData)
+    downloadedSeasons.to_parquet((settings.datadir / settings.scrapedFileName).absolute(), index=False)
     
 # DownloadLeaderboard(startYear)        
     # print()

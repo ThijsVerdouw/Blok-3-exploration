@@ -8,8 +8,14 @@ Created on Tue Oct 24 11:21:34 2023
 import Config
 import Download
 import Preprocessing
+import matplotlib.pyplot as plt 
+import warnings
+import seaborn as sns
 from loguru import logger
+# import streamlit as st
 import os
+import InitialAnalysis
+import Retention
 
 
 def createPathIfNeeded (Path):
@@ -21,9 +27,17 @@ def createPathIfNeeded (Path):
     else:
         logger.info('Path to ' + str(Path) + ' existed already.')
 
-def main(forceDownload = False, forcePreProcessing = False):
-    # initializing settings.Settings()
+def main(forceDownload = False, 
+         forcePreProcessing = False, 
+         InitialGraphing = True,
+         RetentionGraphing= False,
+         Streaming = True):
+    # initializing settings:
     settings = Config.Settings()
+    createPathIfNeeded(settings.logdir)
+    logger.add(settings.logdir / settings.logFile)
+    
+    # Getting raw data:
     RawFile = (settings.datadir / settings.scrapedFileName).absolute()
     createPathIfNeeded(settings.datadir)
         
@@ -32,11 +46,42 @@ def main(forceDownload = False, forcePreProcessing = False):
         logger.warning(f"file {RawFile} does not exist")
         Download.DownloadLeaderboard(settings.startYear)
     
+    # Preprocessing raw data:
     createPathIfNeeded(settings.outputdir)
     PreProccessedFile = (settings.outputdir / settings.preProccessedFilename).absolute()
     # If the data has not been preproccessed
-    if not PreProccessedFile.exists() or forceDownload == True:
+    if not PreProccessedFile.exists() or forcePreProcessing == True:
+        logger.warning(f"file {PreProccessedFile} does not exist")
         Preprocessing.basicFeatureCreation(RawFile, settings)
+    
+    if InitialGraphing == True:
+        InitialAnalysis.GraphAssesment(settings)
+        
+    if RetentionGraphing == True:
+        Retention.a()
+        Retention.b()
+    
 
+    # if Streaming == True:
+    #     df = InitialAnalysis.getFileForStreamlit(PreProccessedFile)
+    #     st.session_state.allData = df.head(100)
 
-main(forcePreProcessing = True)
+    #     option1 = st.selectbox(
+    #         "Select the x-axis",
+    #         st.session_state.allData.columns,
+    #         index=2,
+    #     )
+    #     option2 = st.selectbox(
+    #         "Select the y-axis",
+    #         st.session_state.allData.columns,
+    #         index=3,
+    #     )
+    #     color = st.selectbox("Select the color", st.session_state.allData.columns, index=0)
+
+    #     fig, ax = plt.subplots()
+
+    #     option1 = settings
+    #     sns.scatterplot(data=st.session_state.allData, x=option1, y=option2, hue=color)
+
+    #     st.pyplot(fig)
+main(forcePreProcessing= True)
