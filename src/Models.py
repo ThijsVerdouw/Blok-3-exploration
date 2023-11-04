@@ -29,7 +29,7 @@ import Config
 settings = Config.Settings()
 
 
-def CollectDataForModelling(FileName, debug=True):
+def CollectDataForModelling(FileName, debug=False):
     # Collect dataframe
 
     if debug == True:
