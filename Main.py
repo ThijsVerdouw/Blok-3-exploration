@@ -8,14 +8,14 @@ Created on Tue Oct 24 11:21:34 2023
 import Config
 import Download
 import Preprocessing
-import matplotlib.pyplot as plt 
 import warnings
-import seaborn as sns
 from loguru import logger
 # import streamlit as st
 import os
 import InitialAnalysis
 import Retention
+import ScoreGrowth
+import Models
 
 
 def createPathIfNeeded (Path):
@@ -25,13 +25,16 @@ def createPathIfNeeded (Path):
         logger.info('Path to ' + str(Path) + ' did not exist. \n Created path.')
         os.makedirs(Path)
     else:
-        logger.info('Path to ' + str(Path) + ' existed already.')
+        # logger.info('Path to ' + str(Path) + ' existed already.')
+        pass
 
 def main(forceDownload = False, 
          forcePreProcessing = False, 
          InitialGraphing = True,
-         RetentionGraphing= False,
-         Streaming = True):
+         RetentionGraphing= True,
+         ScoreGraphing = True,
+         ForceTrainingModels = False,
+         Streaming = False):
     # initializing settings:
     settings = Config.Settings()
     createPathIfNeeded(settings.logdir)
@@ -54,13 +57,21 @@ def main(forceDownload = False,
         logger.warning(f"file {PreProccessedFile} does not exist")
         Preprocessing.basicFeatureCreation(RawFile, settings)
     
+    # Visualising and saving results:
+    createPathIfNeeded(settings.figdir)
     if InitialGraphing == True:
         InitialAnalysis.GraphAssesment(settings)
         
     if RetentionGraphing == True:
-        Retention.a()
-        Retention.b()
+        Retention.PerformRetentionAnanlyis(PreProccessedFile)
     
+    if ScoreGraphing == True:
+        ScoreGrowth.identifyImpactOfLeaving (PreProccessedFile)
+    
+    # checking if the last model in the list has been completed:
+    ModelPath = (settings.figdir / "/decision tree.pickle").absolute() 
+    if not ModelPath.exists() or ForceTrainingModels == True:
+        Models.TrainModels(PreProccessedFile)
 
     # if Streaming == True:
     #     df = InitialAnalysis.getFileForStreamlit(PreProccessedFile)
@@ -84,4 +95,5 @@ def main(forceDownload = False,
     #     sns.scatterplot(data=st.session_state.allData, x=option1, y=option2, hue=color)
 
     #     st.pyplot(fig)
-main(forcePreProcessing= True)
+# main(forcePreProcessing= True)
+main()

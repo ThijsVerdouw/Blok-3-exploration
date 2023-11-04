@@ -16,6 +16,7 @@ class Settings(BaseModel):
     datadir: Path = Path("data/raw")
     outputdir: Path = Path("data/processed")
     logdir: Path = basedir / "log"
+    figdir: Path = basedir / "output"
     logFile: str = 'logfile.log'
     scrapedFileName: str = 'ScrapedData.parquet'
     preProccessedFilename: str = 'PreProccessedData.parquet'
@@ -55,6 +56,7 @@ class Settings(BaseModel):
     SixMonthsAFKCol: str = 'SexMonthsAFK'
     TwelveMonthsAFKCol: str = 'TwelveMonthsAFK'
     MassiveLossCol: str = 'MassiveLoss'
+    TMPandPermanentStopCol: str = 'PlayerStoppedPlaying'
     
     # Data types for the dataframes:
     dataTypesRawData: dict = { 
@@ -83,8 +85,13 @@ class Settings(BaseModel):
         ScoreChangePercantageCol: float,
         monthsPlayedCountCol: float,
         FinalPlayedMonthCol: int,
-        MonthsAFKCol: int
+        MonthsAFKCol: int,
+        TMPandPermanentStopCol: int
                        }
+    # Model variables:
+    numericTransformerType = 'median'
+    categoricalStrategyType = 'most_frequent'
+    categoricalHandle_unknown='ignore'
     
         
 settings = Settings()  # This object should be imported in other modules.

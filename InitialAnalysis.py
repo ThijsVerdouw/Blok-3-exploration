@@ -14,13 +14,24 @@ sns.set_theme(style='ticks')
 
 def firstlook (fileName):
     # This function opens the preprocessed file and plots it in a series of boxplots.
-    df = pd.read_parquet(fileName)
-    logger.info('Preprocessed file contains the following columns: ' +str(df.columns))
+    graphTitle = 'Distribution of score by number of months played'
+    logger.info('Graphing ' + graphTitle)
     
+    # The players who quit in the first month are out of scope:      
+    df = pd.read_parquet(fileName)
+    # logger.info('Preprocessed file contains the following columns: ' +str(df.columns))
+    
+    # Originally did this without a log correction, behold: The most usless graph ever.
     # firstLook = sns.boxplot(x = 'monthsPlayed', y = 'score', data = df)
-    # scoreColumnName = 'score'
+    
     df[settings.logScoreCol] = np.log10(df[settings.scoreCol])
-    logLook = sns.boxplot(x = 'monthsPlayed', y = 'logScore', data = df)
+    plt = sns.boxplot(x = 'monthsPlayed', y = 'logScore', data = df)
+    plt.set(title= graphTitle, xlabel='Number of months played', ylabel = 'Score (log10)')
+    plt.figure.savefig(str(settings.figdir) + '/' + graphTitle + ".jpg", format='jpg', dpi=600)
+    
+    # Clears figure so it does not fuck up the other graphs being generated.
+    plt.figure.clear()
+    logger.info('Saved ' + graphTitle)
     return df 
 
 # print(df.head(5))
@@ -57,7 +68,12 @@ def identifySkillLevel (df, scoreColumnName):
     IQR = Q3 - Q1
     Lower_Fence = Q1 - (1.5 * IQR)
     Upper_Fence = Q3 + (1.5 * IQR)
-    logger.info('The player score is quantifies as such, LF: ' +str(Lower_Fence) + ' Q1: ' +str(Q1) + ' Q3: ' + str(Q3) + ' UF: ' + str(Upper_Fence))
+    logger.info('The player score thresholls for each skill level are quantified as such: \nLevel one is <10.000 as the lower fence is below zero: ' +str(Lower_Fence) + 
+                '\n level 2 betwen 10.000 and the Q1:' +str(Q1) + 
+                '\n level 3 is between Q1 and Q3: ' + str(Q3) + 
+                '\n level 4 is between Q3 and the UF: ' + str(Upper_Fence) + 
+                '\n level 5 is greater than the upper fence.'
+                )
     skillDatabase = {'userName':0}
     for i in df.index.tolist():
         skill = assignSkillLevel(Lower_Fence, Q1, Q3, Upper_Fence, df[scoreColumnName][i])
@@ -86,20 +102,37 @@ def singleMonthSelector (df, specificMonth):
     interestingMonth = df.query(query)
     return interestingMonth
 
-def singeMonthView (graphType, df):
-    # This function is a flexible springboard for future graphing features.
-    # It sets X and Y, and allows you to pick the graphtype.
-    x = 'monthsPlayed'
-    y = 'logScore'
-    # y = 'score'
-    graphData(graphType, x=x, y=y, data= df)   
+def singeMonthView (df):
+    # This plots the distribution of score for a single month and saves it.    
+    graphTitle = 'Distribution of score for the second month played for all players'
+    logger.info('Graphing ' + graphTitle)
+    
+    # Make figure:
+    plt = sns.displot(y = settings.logScoreCol, data = df)
+    plt.set(title= graphTitle, xlabel='Number of players', ylabel = 'Score (log10)')
+    plt.figure.savefig(str(settings.figdir) + '/' + graphTitle + ".jpg", format='jpg', dpi=600)
+    
+    # Clears figure so it does not fuck up the other graphs being generated.
+    plt.figure.clear()
+    logger.info('Saved ' + graphTitle)
     
     
 def GraphAssesment (settings, specificMonth = 2):
     df = firstlook((settings.outputdir / settings.preProccessedFilename).absolute())
     singleMonthDF = singleMonthSelector(df, specificMonth=specificMonth)
-    singeMonthView (graphType= 'HG', df= singleMonthDF)
-    sns.displot(x = 'skillLevel', data= df[['user','skillLevel']].drop_duplicates())
+    singeMonthView (df= singleMonthDF)
+    
+    # This graphs the skill level of the users in the selected month:
+    graphTitle = 'Distribution of skill level across unique players'
+    logger.info('Graphing ' + graphTitle)
+    
+    plt = sns.displot(x = 'skillLevel', data= df[['user','skillLevel']].drop_duplicates())
+    plt.set(title= graphTitle, xlabel='Programming skill level', ylabel = 'Number of players')
+    plt.figure.savefig(str(settings.figdir) + '/' + graphTitle + ".jpg", format='jpg', dpi=600)
+    
+    # Clears figure so it does not fuck up the other graphs being generated.
+    plt.figure.clear()
+    logger.info('Saved ' + graphTitle)
 
 def getFileForStreamlit(fileName):
     # This function opens the preprocessed file and plots it in a series of boxplots.

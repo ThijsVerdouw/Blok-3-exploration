@@ -11,6 +11,7 @@ from loguru import logger
 import Download
 import InitialAnalysis
 import ScoreGrowth
+import Retention
 
 def defineStartYear (row, seasonList):
     # This turns the season string into a season number, which is done to make it an easy to use X axis.
@@ -65,11 +66,13 @@ def basicFeatureCreation (rawDataPath, settings):
         monthsAFK = 0 
         totalLoops = len(playerActivity)
         currentMonth = seasonList[len(seasonList)-1] # The currently live season 
+        IndexesForPlayer = playerActivity.index.tolist()
         
         # This gets changed when the season numbers are not adding up
-        for i in playerActivity.index.tolist() :
+        for i in IndexesForPlayer:
             # print(i, len(playerActivity))
             # print(playerActivity['SeasonNumber'][i])
+            # print(playerActivity)
             if previousSeason == -1:
                 returning = 0 # the first season is always not a returning player
             elif playerActivity[settings.SeasonNrCol][i] == previousSeason + 1:
@@ -99,15 +102,30 @@ def basicFeatureCreation (rawDataPath, settings):
             # Score increase percentage based:
             scoreChange = (playerActivity[settings.scoreCol][i] / previousScore) -1 
             
+            # This identifies if a player has permently stopped playing:
+            if currentMonth == settings.seasonCol:  
+                lastMonth = 1 # 1= The player is still playing in the last recorded month 
             
-            if currentMonth == settings.seasonCol: 
-                lastMonth = 1 # 1= He is still playing. 
-            # Last month of play?
             elif loopNr == totalLoops:
-                lastMonth = 0 # 0= He is no longer playing
+                lastMonth = 0 # 0= He has permently stopped playing.
             else:
                 lastMonth = 1
-                loopNr = loopNr + 1 
+                
+            
+            # print(lastMonth, playerActivity[settings.SeasonNrCol][i],
+            #       IndexesForPlayer[loopNr],
+            #       IndexesForPlayer[1],
+            #       loopNr
+            #       )
+            # This is a more broad variant of the lastMonth column, in which temporary quits are
+            # also counted as quitting playing the game.
+            # A player can come back after quitting after all.
+            if lastMonth == 0:
+                TMPandPermanentStop = 0 # the guy stoppped playin permanently (see lastMonth calculation above)
+            elif playerActivity[settings.SeasonNrCol][IndexesForPlayer[loopNr]] != playerActivity[settings.SeasonNrCol][i]+1:
+                TMPandPermanentStop = 0 # If the next season is not the current season + 1, aka: the player skipped one or more months.
+            else:
+                TMPandPermanentStop = 1
             
             # Storing information for the dataframe using NP array:
             playerData.append( np.array([playerActivity[settings.originalIDCol][i],
@@ -123,12 +141,14 @@ def basicFeatureCreation (rawDataPath, settings):
                                 scoreChange,
                                 monthsPlayed,
                                 lastMonth,
-                                monthsAFK
+                                monthsAFK,
+                                TMPandPermanentStop
                 ]))
     
             # Storing score for next loop
-            previousScore = playerActivity['score'][i]
+            previousScore = playerActivity[settings.scoreCol][i]
             monthsPlayed = monthsPlayed + 1
+            loopNr = loopNr + 1 
         playerDatabase.append(playerData)
         # break (testing purposeses if only want to run one loop.)
     
@@ -147,12 +167,17 @@ def basicFeatureCreation (rawDataPath, settings):
                                                              settings.ScoreChangePercantageCol,
                                                              settings.monthsPlayedCountCol, 
                                                              settings.FinalPlayedMonthCol,
-                                                             settings.MonthsAFKCol])
-    print(playerDatabase[settings.FinalPlayedMonthCol].unique())
+                                                             settings.MonthsAFKCol,
+                                                             settings.TMPandPermanentStopCol])
+    # print(playerDatabase[settings.FinalPlayedMonthCol].unique())
     playerDatabase = playerDatabase.astype(dtype = settings.dataTypesPreprocessedData)
     logger.info('Completed creating basic features')
-    playerDatabase = perfomInitialAnalysis(playerDatabase, settings)
     
+    # This triggers the initial analysis module:
+    playerDatabase = perfomInitialAnalysis(playerDatabase, settings)
+    playerDatabase = Retention.addRetentionColumns (playerDatabase)
+    
+    # Save:
     playerDatabase.to_parquet((settings.outputdir / settings.preProccessedFilename).absolute(), index = False)
     logger.info('Completed basic feature engineering')
     
