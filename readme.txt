@@ -10,18 +10,19 @@ How to run:
 Run the main.py while your base directory is the project folder. It takes no arguments.
 
 What does it do
-1. Data collection:
+1. Data collection (takes 30 minutes or so):
 It uses requests to download the data from the official screeps website. This data is stored as a raw data parquet file in data/raw. This takes about 30 or so minutes.
 
-2. Data preprocessing:
+2. Data preprocessing (takes up to 5 minutes):
 It calculates a lot of attributes (for more information about those attributes see the word file in the docs folder). 
 It does this in preprocessing.py, which calls in a lot of function from other modules in the src folder.
 
-3. Analysis:
+3. Analysis (takes 10-20 seconds):
 The analysis ran by the code generates (hopefully) meaningful pictures. These pictures are stored in the output folder.
 
-4. Modelling:
+4. Modelling (takes about 5 minutes):
 The models are trained on the preprocessed data. The models are evaluated, and then saved in the output folder as .pickle files.
+This also generates the Confusion matrix.
 
 FAQ:
 I want to reload the raw data/preproccessed data/retrain the models?
