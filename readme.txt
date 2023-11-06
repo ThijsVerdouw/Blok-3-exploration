@@ -4,7 +4,7 @@ This is the code for the module data mining and exploration.
 Installation:
 1. Clone repository.
 2. The dependancy manager used is poetry. Type poetry activate in the project folderto configure your Virtual environment.
-3. Done (or if errow, use pip to install: pyarrow, requests, pydantic, scikit-learn, seaborn and loguru on python 3.11.5
+3. Done (or if errow, use pip to install: pyarrow, requests, pydantic, scikit-learn, seaborn and loguru on python 3.11.5)
 
 How to run:
 Run the main.py while your base directory is the project folder. It takes no arguments.
