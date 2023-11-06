@@ -47,6 +47,7 @@ def identifyImpactOfLeaving(FilePath, referenceMonth=3):
         x=settings.playerTypeCol, y=settings.ScoreChangePercantageCol, data=df
     )
     plt.yaxis.set_major_formatter(mtick.PercentFormatter(xmax=1.0))
+    plt.set(ylim=(-1, 5))
 
     plt.set(
         title=graphTitle,
@@ -66,5 +67,5 @@ def identifyImpactOfLeaving(FilePath, referenceMonth=3):
     plt.figure.clear()
     logger.info("Saved " + graphTitle)
 
-
-# identifyImpactOfLeaving(df)
+# PreProccessedFile = (settings.outputdir / settings.preProccessedFilename).absolute()
+# identifyImpactOfLeaving(PreProccessedFile)
